@@ -1,0 +1,31 @@
+country,count,type
+United States,4178021,confirmed
+United States,1279414,recovered
+United States,146460,deaths
+United Kingdom,300270,confirmed
+United Kingdom,1427,recovered
+United Kingdom,45823,deaths
+South Africa,434200,confirmed
+South Africa,263054,recovered
+South Africa,6655,deaths
+Russia,805332,confirmed
+Russia,596064,recovered
+Russia,13172,deaths
+Peru,375961,confirmed
+Peru,259423,recovered
+Peru,17843,deaths
+Mexico,385036,confirmed
+Mexico,288819,recovered
+Mexico,42645,deaths
+Iran,288839,confirmed
+Iran,251319,recovered
+Iran,15484,deaths
+India,1385635,confirmed
+India,885573,recovered
+India,32060,deaths
+Chile,343592,confirmed
+Chile,316169,recovered
+Chile,9020,deaths
+Brazil,2394513,confirmed
+Brazil,1785359,recovered
+Brazil,86449,deaths
