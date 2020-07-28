@@ -1091,13 +1091,13 @@ Apr,Kenya,,-0.0236,37.9062,396,144,17
 May,Kenya,,-0.0236,37.9062,1962,478,64
 Jun,Kenya,,-0.0236,37.9062,6366,2039,148
 Jul,Kenya,,-0.0236,37.9062,16643,7574,278
-Jan,Korea, South,,35.907757,127.766922,11,0,0
-Feb,Korea, South,,35.907757,127.766922,3150,27,16
-Mar,Korea, South,,35.907757,127.766922,9786,5408,162
-Apr,Korea, South,,35.907757,127.766922,10774,9072,248
-May,Korea, South,,35.907757,127.766922,11503,10422,271
-Jun,Korea, South,,35.907757,127.766922,12850,11613,282
-Jul,Korea, South,,35.907757,127.766922,14150,12890,298
+Jan,Korea South,,35.907757,127.766922,11,0,0
+Feb,Korea South,,35.907757,127.766922,3150,27,16
+Mar,Korea South,,35.907757,127.766922,9786,5408,162
+Apr,Korea South,,35.907757,127.766922,10774,9072,248
+May,Korea South,,35.907757,127.766922,11503,10422,271
+Jun,Korea South,,35.907757,127.766922,12850,11613,282
+Jul,Korea South,,35.907757,127.766922,14150,12890,298
 Jan,Kosovo,,42.602636,20.902977,0,0,0
 Feb,Kosovo,,42.602636,20.902977,0,0,0
 Mar,Kosovo,,42.602636,20.902977,112,6,1
@@ -1322,13 +1322,13 @@ Apr,Netherlands,Aruba,12.5211,-69.9683,100,79,2
 May,Netherlands,Aruba,12.5211,-69.9683,101,98,3
 Jun,Netherlands,Aruba,12.5211,-69.9683,103,98,3
 Jul,Netherlands,Aruba,12.5211,-69.9683,119,102,3
-Jan,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
-Feb,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
-Mar,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
-Apr,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,5,0,0
-May,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,6,6,0
-Jun,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,7,7,0
-Jul,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,11,7,0
+Jan,Netherlands,Bonaire,Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
+Feb,Netherlands,Bonaire,Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
+Mar,Netherlands,Bonaire,Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
+Apr,Netherlands,Bonaire,Sint Eustatius and Saba,12.1784,-68.2385,5,0,0
+May,Netherlands,Bonaire,Sint Eustatius and Saba,12.1784,-68.2385,6,6,0
+Jun,Netherlands,Bonaire,Sint Eustatius and Saba,12.1784,-68.2385,7,7,0
+Jul,Netherlands,Bonaire,Sint Eustatius and Saba,12.1784,-68.2385,11,7,0
 Jan,Netherlands,Curacao,12.1696,-68.99,0,0,0
 Feb,Netherlands,Curacao,12.1696,-68.99,0,0,0
 Mar,Netherlands,Curacao,12.1696,-68.99,11,2,1
@@ -1637,13 +1637,13 @@ Apr,Syria,,34.802075,38.996815,43,21,3
 May,Syria,,34.802075,38.996815,122,46,5
 Jun,Syria,,34.802075,38.996815,279,105,9
 Jul,Syria,,34.802075,38.996815,627,191,36
-Jan,Taiwan*,,23.7,121,10,0,0
-Feb,Taiwan*,,23.7,121,39,9,1
-Mar,Taiwan*,,23.7,121,322,39,5
-Apr,Taiwan*,,23.7,121,429,322,6
-May,Taiwan*,,23.7,121,442,423,7
-Jun,Taiwan*,,23.7,121,447,437,7
-Jul,Taiwan*,,23.7,121,458,440,7
+Jan,Taiwan,,23.7,121,10,0,0
+Feb,Taiwan,,23.7,121,39,9,1
+Mar,Taiwan,,23.7,121,322,39,5
+Apr,Taiwan,,23.7,121,429,322,6
+May,Taiwan,,23.7,121,442,423,7
+Jun,Taiwan,,23.7,121,447,437,7
+Jul,Taiwan,,23.7,121,458,440,7
 Jan,Tajikistan,,38.861,71.2761,0,0,0
 Feb,Tajikistan,,38.861,71.2761,0,0,0
 Mar,Tajikistan,,38.861,71.2761,0,0,0
