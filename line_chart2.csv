@@ -1,0 +1,1870 @@
+Month,Country,State,Lat,Long,Confirmed,Recovered,Deaths
+Jan,Afghanistan,,33.93911,67.709953,0,0,0
+Feb,Afghanistan,,33.93911,67.709953,1,0,0
+Mar,Afghanistan,,33.93911,67.709953,174,5,4
+Apr,Afghanistan,,33.93911,67.709953,2171,260,64
+May,Afghanistan,,33.93911,67.709953,15205,1328,257
+Jun,Afghanistan,,33.93911,67.709953,31517,14131,746
+Jul,,Afghanistan,,33.93911,67.709953,36036,24793,1248
+Jan,Albania,,41.1533,20.1683,0,0,0
+Feb,Albania,,41.1533,20.1683,0,0,0
+Mar,Albania,,41.1533,20.1683,243,52,15
+Apr,Albania,,41.1533,20.1683,773,470,31
+May,Albania,,41.1533,20.1683,1137,872,33
+Jun,Albania,,41.1533,20.1683,2535,1459,62
+Jul,,Albania,,41.1533,20.1683,4637,2637,134
+Jan,Algeria,,28.0339,1.6596,0,0,0
+Feb,Algeria,,28.0339,1.6596,1,0,0
+Mar,Algeria,,28.0339,1.6596,716,46,44
+Apr,Algeria,,28.0339,1.6596,4006,1779,450
+May,Algeria,,28.0339,1.6596,9394,5748,653
+Jun,Algeria,,28.0339,1.6596,13907,9897,912
+Jul,,Algeria,,28.0339,1.6596,26764,18076,1146
+Jan,Andorra,,42.5063,1.5218,0,0,0
+Feb,Andorra,,42.5063,1.5218,0,0,0
+Mar,Andorra,,42.5063,1.5218,376,10,12
+Apr,Andorra,,42.5063,1.5218,745,468,42
+May,Andorra,,42.5063,1.5218,764,694,51
+Jun,Andorra,,42.5063,1.5218,855,799,52
+Jul,,Andorra,,42.5063,1.5218,897,803,52
+Jan,Angola,,-11.2027,17.8739,0,0,0
+Feb,Angola,,-11.2027,17.8739,0,0,0
+Mar,Angola,,-11.2027,17.8739,7,1,2
+Apr,Angola,,-11.2027,17.8739,27,7,2
+May,Angola,,-11.2027,17.8739,86,18,4
+Jun,Angola,,-11.2027,17.8739,284,93,13
+Jul,,Angola,,-11.2027,17.8739,916,242,39
+Jan,Antigua and Barbuda,,17.0608,-61.7964,0,0,0
+Feb,Antigua and Barbuda,,17.0608,-61.7964,0,0,0
+Mar,Antigua and Barbuda,,17.0608,-61.7964,7,0,0
+Apr,Antigua and Barbuda,,17.0608,-61.7964,24,11,3
+May,Antigua and Barbuda,,17.0608,-61.7964,26,19,3
+Jun,Antigua and Barbuda,,17.0608,-61.7964,69,22,3
+Jul,,Antigua and Barbuda,,17.0608,-61.7964,82,60,3
+Jan,Argentina,,-38.4161,-63.6167,0,0,0
+Feb,Argentina,,-38.4161,-63.6167,0,0,0
+Mar,Argentina,,-38.4161,-63.6167,1054,240,27
+Apr,Argentina,,-38.4161,-63.6167,4428,1256,218
+May,Argentina,,-38.4161,-63.6167,16851,5336,539
+Jun,Argentina,,-38.4161,-63.6167,64530,22028,1307
+Jul,,Argentina,,-38.4161,-63.6167,158334,68022,2893
+Jan,Armenia,,40.0691,45.0382,0,0,0
+Feb,Armenia,,40.0691,45.0382,0,0,0
+Mar,Armenia,,40.0691,45.0382,532,30,3
+Apr,Armenia,,40.0691,45.0382,2066,929,32
+May,Armenia,,40.0691,45.0382,9282,3386,131
+Jun,Armenia,,40.0691,45.0382,25542,14048,443
+Jul,,Armenia,,40.0691,45.0382,36996,26243,700
+Jan,Australia,Australian Capital Territory,-35.4735,149.0124,0,0,0
+Feb,Australia,Australian Capital Territory,-35.4735,149.0124,0,0,0
+Mar,Australia,Australian Capital Territory,-35.4735,149.0124,80,3,1
+Apr,Australia,Australian Capital Territory,-35.4735,149.0124,106,103,3
+May,Australia,Australian Capital Territory,-35.4735,149.0124,107,104,3
+Jun,Australia,Australian Capital Territory,-35.4735,149.0124,108,105,3
+Jul,,Australia,Australian Capital Territory,-35.4735,149.0124,113,109,3
+Jan,Australia,New South Wales,-33.8688,151.2093,4,2,0
+Feb,Australia,New South Wales,-33.8688,151.2093,4,4,0
+Mar,Australia,New South Wales,-33.8688,151.2093,2032,4,8
+Apr,Australia,New South Wales,-33.8688,151.2093,3025,2293,41
+May,Australia,New South Wales,-33.8688,151.2093,3098,2685,48
+Jun,Australia,New South Wales,-33.8688,151.2093,3203,2787,49
+Jul,,Australia,New South Wales,-33.8688,151.2093,3668,2988,49
+Jan,Australia,Northern Territory,-12.4634,130.8456,0,0,0
+Feb,Australia,Northern Territory,-12.4634,130.8456,0,0,0
+Mar,Australia,Northern Territory,-12.4634,130.8456,17,0,0
+Apr,Australia,Northern Territory,-12.4634,130.8456,28,25,0
+May,Australia,Northern Territory,-12.4634,130.8456,29,29,0
+Jun,Australia,Northern Territory,-12.4634,130.8456,29,29,0
+Jul,,Australia,Northern Territory,-12.4634,130.8456,31,30,0
+Jan,Australia,Queensland,-27.4698,153.0251,2,0,0
+Feb,Australia,Queensland,-27.4698,153.0251,9,1,0
+Mar,Australia,Queensland,-27.4698,153.0251,743,8,2
+Apr,Australia,Queensland,-27.4698,153.0251,1033,948,6
+May,Australia,Queensland,-27.4698,153.0251,1058,1046,7
+Jun,Australia,Queensland,-27.4698,153.0251,1067,1054,6
+Jul,,Australia,Queensland,-27.4698,153.0251,1076,1063,6
+Jan,Australia,South Australia,-34.9285,138.6007,0,0,0
+Feb,Australia,South Australia,-34.9285,138.6007,3,2,0
+Mar,Australia,South Australia,-34.9285,138.6007,337,6,0
+Apr,Australia,South Australia,-34.9285,138.6007,438,420,4
+May,Australia,South Australia,-34.9285,138.6007,440,435,4
+Jun,Australia,South Australia,-34.9285,138.6007,443,436,4
+Jul,,Australia,South Australia,-34.9285,138.6007,447,441,4
+Jan,Australia,Tasmania,-42.8821,147.3272,0,0,0
+Feb,Australia,Tasmania,-42.8821,147.3272,0,0,0
+Mar,Australia,Tasmania,-42.8821,147.3272,69,5,1
+Apr,Australia,Tasmania,-42.8821,147.3272,221,153,13
+May,Australia,Tasmania,-42.8821,147.3272,228,207,13
+Jun,Australia,Tasmania,-42.8821,147.3272,228,215,13
+Jul,,Australia,Tasmania,-42.8821,147.3272,229,215,13
+Jan,Australia,Victoria,-37.8136,144.9631,3,0,0
+Feb,Australia,Victoria,-37.8136,144.9631,7,4,0
+Mar,Australia,Victoria,-37.8136,144.9631,917,291,4
+Apr,Australia,Victoria,-37.8136,144.9631,1364,1293,18
+May,Australia,Victoria,-37.8136,144.9631,1653,1560,19
+Jun,Australia,Victoria,-37.8136,144.9631,2231,1816,20
+Jul,,Australia,Victoria,-37.8136,144.9631,8181,3529,71
+Jan,Australia,Western Australia,-31.9505,115.8605,0,0,0
+Feb,Australia,Western Australia,-31.9505,115.8605,2,0,0
+Mar,Australia,Western Australia,-31.9505,115.8605,364,41,2
+Apr,Australia,Western Australia,-31.9505,115.8605,551,507,8
+May,Australia,Western Australia,-31.9505,115.8605,589,552,9
+Jun,Australia,Western Australia,-31.9505,115.8605,611,598,9
+Jul,,Australia,Western Australia,-31.9505,115.8605,658,644,9
+Jan,Austria,,47.5162,14.5501,0,0,0
+Feb,Austria,,47.5162,14.5501,9,0,0
+Mar,Austria,,47.5162,14.5501,10180,1095,128
+Apr,Austria,,47.5162,14.5501,15452,12907,584
+May,Austria,,47.5162,14.5501,16731,15593,668
+Jun,Austria,,47.5162,14.5501,17766,16478,705
+Jul,,Austria,,47.5162,14.5501,20338,18124,712
+Jan,Azerbaijan,,40.1431,47.5769,0,0,0
+Feb,Azerbaijan,,40.1431,47.5769,0,0,0
+Mar,Azerbaijan,,40.1431,47.5769,298,26,5
+Apr,Azerbaijan,,40.1431,47.5769,1804,1325,24
+May,Azerbaijan,,40.1431,47.5769,5494,3428,63
+Jun,Azerbaijan,,40.1431,47.5769,17524,9715,213
+Jul,,Azerbaijan,,40.1431,47.5769,29633,22082,408
+Jan,Bahamas,,25.025885,-78.035889,0,0,0
+Feb,Bahamas,,25.025885,-78.035889,0,0,0
+Mar,Bahamas,,25.025885,-78.035889,14,1,0
+Apr,Bahamas,,25.025885,-78.035889,81,25,11
+May,Bahamas,,25.025885,-78.035889,102,48,11
+Jun,Bahamas,,25.025885,-78.035889,104,87,11
+Jul,,Bahamas,,25.025885,-78.035889,326,91,11
+Jan,Bahrain,,26.0275,50.55,0,0,0
+Feb,Bahrain,,26.0275,50.55,41,0,0
+Mar,Bahrain,,26.0275,50.55,567,295,4
+Apr,Bahrain,,26.0275,50.55,3040,1500,8
+May,Bahrain,,26.0275,50.55,11398,6673,19
+Jun,Bahrain,,26.0275,50.55,26758,21331,87
+Jul,,Bahrain,,26.0275,50.55,38747,35205,137
+Jan,Bangladesh,,23.685,90.3563,0,0,0
+Feb,Bangladesh,,23.685,90.3563,0,0,0
+Mar,Bangladesh,,23.685,90.3563,51,25,5
+Apr,Bangladesh,,23.685,90.3563,7667,160,168
+May,Bangladesh,,23.685,90.3563,47153,9781,650
+Jun,Bangladesh,,23.685,90.3563,145483,59624,1847
+Jul,,Bangladesh,,23.685,90.3563,221178,122090,2874
+Jan,Barbados,,13.1939,-59.5432,0,0,0
+Feb,Barbados,,13.1939,-59.5432,0,0,0
+Mar,Barbados,,13.1939,-59.5432,34,0,0
+Apr,Barbados,,13.1939,-59.5432,81,39,7
+May,Barbados,,13.1939,-59.5432,92,76,7
+Jun,Barbados,,13.1939,-59.5432,97,90,7
+Jul,,Barbados,,13.1939,-59.5432,108,94,7
+Jan,Belarus,,53.7098,27.9534,0,0,0
+Feb,Belarus,,53.7098,27.9534,1,0,0
+Mar,Belarus,,53.7098,27.9534,152,47,1
+Apr,Belarus,,53.7098,27.9534,14027,2386,89
+May,Belarus,,53.7098,27.9534,42556,18514,235
+Jun,Belarus,,53.7098,27.9534,62118,46054,392
+Jul,,Belarus,,53.7098,27.9534,67002,60092,530
+Jan,Belgium,,50.8333,4.469936,0,0,0
+Feb,Belgium,,50.8333,4.469936,1,1,0
+Mar,Belgium,,50.8333,4.469936,12775,1696,705
+Apr,Belgium,,50.8333,4.469936,48519,11576,7594
+May,Belgium,,50.8333,4.469936,58381,15887,9467
+Jun,Belgium,,50.8333,4.469936,61427,16984,9747
+Jul,,Belgium,,50.8333,4.469936,65727,17425,9821
+Jan,Belize,,17.1899,-88.4976,0,0,0
+Feb,Belize,,17.1899,-88.4976,0,0,0
+Mar,Belize,,17.1899,-88.4976,3,0,0
+Apr,Belize,,17.1899,-88.4976,18,9,2
+May,Belize,,17.1899,-88.4976,18,16,2
+Jun,Belize,,17.1899,-88.4976,24,18,2
+Jul,,Belize,,17.1899,-88.4976,48,26,2
+Jan,Benin,,9.3077,2.3158,0,0,0
+Feb,Benin,,9.3077,2.3158,0,0,0
+Mar,Benin,,9.3077,2.3158,9,1,0
+Apr,Benin,,9.3077,2.3158,64,33,1
+May,Benin,,9.3077,2.3158,232,143,3
+Jun,Benin,,9.3077,2.3158,1199,333,21
+Jul,,Benin,,9.3077,2.3158,1694,918,34
+Jan,Bhutan,,27.5142,90.4336,0,0,0
+Feb,Bhutan,,27.5142,90.4336,0,0,0
+Mar,Bhutan,,27.5142,90.4336,4,0,0
+Apr,Bhutan,,27.5142,90.4336,7,5,0
+May,Bhutan,,27.5142,90.4336,43,6,0
+Jun,Bhutan,,27.5142,90.4336,77,48,0
+Jul,,Bhutan,,27.5142,90.4336,92,85,0
+Jan,Bolivia,,-16.2902,-63.5887,0,0,0
+Feb,Bolivia,,-16.2902,-63.5887,0,0,0
+Mar,Bolivia,,-16.2902,-63.5887,107,0,6
+Apr,Bolivia,,-16.2902,-63.5887,1167,132,62
+May,Bolivia,,-16.2902,-63.5887,9982,968,313
+Jun,Bolivia,,-16.2902,-63.5887,33219,9340,1123
+Jul,,Bolivia,,-16.2902,-63.5887,68281,20951,2535
+Jan,Bosnia and Herzegovina,,43.9159,17.6791,0,0,0
+Feb,Bosnia and Herzegovina,,43.9159,17.6791,0,0,0
+Mar,Bosnia and Herzegovina,,43.9159,17.6791,420,17,13
+Apr,Bosnia and Herzegovina,,43.9159,17.6791,1757,727,69
+May,Bosnia and Herzegovina,,43.9159,17.6791,2510,1862,153
+Jun,Bosnia and Herzegovina,,43.9159,17.6791,4453,2402,186
+Jul,,Bosnia and Herzegovina,,43.9159,17.6791,9767,4555,280
+Jan,Botswana,,-22.3285,24.6849,0,0,0
+Feb,Botswana,,-22.3285,24.6849,0,0,0
+Mar,Botswana,,-22.3285,24.6849,4,0,1
+Apr,Botswana,,-22.3285,24.6849,23,5,1
+May,Botswana,,-22.3285,24.6849,35,20,1
+Jun,Botswana,,-22.3285,24.6849,227,28,1
+Jul,,Botswana,,-22.3285,24.6849,686,52,1
+Jan,Brazil,,-14.235,-51.9253,0,0,0
+Feb,Brazil,,-14.235,-51.9253,2,0,0
+Mar,Brazil,,-14.235,-51.9253,5717,127,201
+Apr,Brazil,,-14.235,-51.9253,87187,35935,6006
+May,Brazil,,-14.235,-51.9253,514849,206555,29314
+Jun,Brazil,,-14.235,-51.9253,1402041,788318,59594
+Jul,,Brazil,,-14.235,-51.9253,2394513,1785359,86449
+Jan,Brunei,,4.5353,114.7277,0,0,0
+Feb,Brunei,,4.5353,114.7277,0,0,0
+Mar,Brunei,,4.5353,114.7277,129,45,1
+Apr,Brunei,,4.5353,114.7277,138,124,1
+May,Brunei,,4.5353,114.7277,141,138,2
+Jun,Brunei,,4.5353,114.7277,141,138,3
+Jul,,Brunei,,4.5353,114.7277,141,138,3
+Jan,Bulgaria,,42.7339,25.4858,0,0,0
+Feb,Bulgaria,,42.7339,25.4858,0,0,0
+Mar,Bulgaria,,42.7339,25.4858,399,17,8
+Apr,Bulgaria,,42.7339,25.4858,1506,266,66
+May,Bulgaria,,42.7339,25.4858,2513,1074,140
+Jun,Bulgaria,,42.7339,25.4858,4989,2676,230
+Jul,,Bulgaria,,42.7339,25.4858,10312,5306,338
+Jan,Burkina Faso,,12.2383,-1.5616,0,0,0
+Feb,Burkina Faso,,12.2383,-1.5616,0,0,0
+Mar,Burkina Faso,,12.2383,-1.5616,261,32,14
+Apr,Burkina Faso,,12.2383,-1.5616,645,506,43
+May,Burkina Faso,,12.2383,-1.5616,847,720,53
+Jun,Burkina Faso,,12.2383,-1.5616,962,838,53
+Jul,,Burkina Faso,,12.2383,-1.5616,1086,920,53
+Jan,Burma,,21.9162,95.956,0,0,0
+Feb,Burma,,21.9162,95.956,0,0,0
+Mar,Burma,,21.9162,95.956,15,0,1
+Apr,Burma,,21.9162,95.956,151,27,6
+May,Burma,,21.9162,95.956,224,138,6
+Jun,Burma,,21.9162,95.956,299,222,6
+Jul,,Burma,,21.9162,95.956,348,288,6
+Jan,Burundi,,-3.3731,29.9189,0,0,0
+Feb,Burundi,,-3.3731,29.9189,0,0,0
+Mar,Burundi,,-3.3731,29.9189,2,0,0
+Apr,Burundi,,-3.3731,29.9189,11,4,1
+May,Burundi,,-3.3731,29.9189,63,33,1
+Jun,Burundi,,-3.3731,29.9189,170,115,1
+Jul,,Burundi,,-3.3731,29.9189,361,279,1
+Jan,Cabo Verde,,16.5388,-23.0418,0,0,0
+Feb,Cabo Verde,,16.5388,-23.0418,0,0,0
+Mar,Cabo Verde,,16.5388,-23.0418,6,0,1
+Apr,Cabo Verde,,16.5388,-23.0418,121,4,1
+May,Cabo Verde,,16.5388,-23.0418,435,193,4
+Jun,Cabo Verde,,16.5388,-23.0418,1227,629,15
+Jul,,Cabo Verde,,16.5388,-23.0418,2258,1363,22
+Jan,Cambodia,,11.55,104.9167,1,0,0
+Feb,Cambodia,,11.55,104.9167,1,1,0
+Mar,Cambodia,,11.55,104.9167,109,23,0
+Apr,Cambodia,,11.55,104.9167,122,119,0
+May,Cambodia,,11.55,104.9167,125,123,0
+Jun,Cambodia,,11.55,104.9167,141,130,0
+Jul,,Cambodia,,11.55,104.9167,225,143,0
+Jan,Cameroon,,3.848,11.5021,0,0,0
+Feb,Cameroon,,3.848,11.5021,0,0,0
+Mar,Cameroon,,3.848,11.5021,193,5,6
+Apr,Cameroon,,3.848,11.5021,1832,934,61
+May,Cameroon,,3.848,11.5021,5904,3568,191
+Jun,Cameroon,,3.848,11.5021,12592,10100,313
+Jul,,Cameroon,,3.848,11.5021,16708,14539,385
+Jan,Canada,Alberta,53.9333,-116.5765,0,,0
+Feb,Canada,Alberta,53.9333,-116.5765,0,,0
+Mar,Canada,Alberta,53.9333,-116.5765,690,,8
+Apr,Canada,Alberta,53.9333,-116.5765,5355,,90
+May,Canada,Alberta,53.9333,-116.5765,7010,,143
+Jun,Canada,Alberta,53.9333,-116.5765,8108,,154
+Jul,,Canada,Alberta,53.9333,-116.5765,10086,,178
+Jan,Canada,British Columbia,53.7267,-127.6476,1,,0
+Feb,Canada,British Columbia,53.7267,-127.6476,8,,0
+Mar,Canada,British Columbia,53.7267,-127.6476,1013,,24
+Apr,Canada,British Columbia,53.7267,-127.6476,2112,,111
+May,Canada,British Columbia,53.7267,-127.6476,2573,,164
+Jun,Canada,British Columbia,53.7267,-127.6476,2916,,174
+Jul,,Canada,British Columbia,53.7267,-127.6476,3419,,191
+Jan,Canada,Diamond Princess,0,0,0,,0
+Feb,Canada,Diamond Princess,0,0,0,,0
+Mar,Canada,Diamond Princess,0,0,0,,1
+Apr,Canada,Diamond Princess,0,0,0,,1
+May,Canada,Diamond Princess,0,0,1,,1
+Jun,Canada,Diamond Princess,0,0,0,,1
+Jul,,Canada,Diamond Princess,0,0,0,,1
+Jan,Canada,Grand Princess,0,0,0,,0
+Feb,Canada,Grand Princess,0,0,0,,0
+Mar,Canada,Grand Princess,0,0,13,,0
+Apr,Canada,Grand Princess,0,0,13,,0
+May,Canada,Grand Princess,0,0,13,,0
+Jun,Canada,Grand Princess,0,0,13,,0
+Jul,,Canada,Grand Princess,0,0,13,,0
+Jan,Canada,Manitoba,53.7609,-98.8139,0,,0
+Feb,Canada,Manitoba,53.7609,-98.8139,0,,0
+Mar,Canada,Manitoba,53.7609,-98.8139,103,,1
+Apr,Canada,Manitoba,53.7609,-98.8139,277,,6
+May,Canada,Manitoba,53.7609,-98.8139,295,,7
+Jun,Canada,Manitoba,53.7609,-98.8139,325,,7
+Jul,,Canada,Manitoba,53.7609,-98.8139,388,,7
+Jan,Canada,New Brunswick,46.5653,-66.4619,0,,0
+Feb,Canada,New Brunswick,46.5653,-66.4619,0,,0
+Mar,Canada,New Brunswick,46.5653,-66.4619,70,,0
+Apr,Canada,New Brunswick,46.5653,-66.4619,118,,0
+May,Canada,New Brunswick,46.5653,-66.4619,132,,0
+Jun,Canada,New Brunswick,46.5653,-66.4619,165,,2
+Jul,,Canada,New Brunswick,46.5653,-66.4619,170,,2
+Jan,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
+Feb,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
+Mar,Canada,Newfoundland and Labrador,53.1355,-57.6604,152,,1
+Apr,Canada,Newfoundland and Labrador,53.1355,-57.6604,258,,3
+May,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+Jun,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+Jul,,Canada,Newfoundland and Labrador,53.1355,-57.6604,265,,3
+Jan,Canada,Northwest Territories,64.8255,-124.8457,0,,0
+Feb,Canada,Northwest Territories,64.8255,-124.8457,0,,0
+Mar,Canada,Northwest Territories,64.8255,-124.8457,1,,0
+Apr,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+May,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+Jun,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+Jul,,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+Jan,Canada,Nova Scotia,44.682,-63.7443,0,,0
+Feb,Canada,Nova Scotia,44.682,-63.7443,0,,0
+Mar,Canada,Nova Scotia,44.682,-63.7443,147,,0
+Apr,Canada,Nova Scotia,44.682,-63.7443,947,,28
+May,Canada,Nova Scotia,44.682,-63.7443,1056,,60
+Jun,Canada,Nova Scotia,44.682,-63.7443,1062,,63
+Jul,,Canada,Nova Scotia,44.682,-63.7443,1067,,63
+Jan,Canada,Ontario,51.2538,-85.3232,3,,0
+Feb,Canada,Ontario,51.2538,-85.3232,11,,0
+Mar,Canada,Ontario,51.2538,-85.3232,1966,,33
+Apr,Canada,Ontario,51.2538,-85.3232,17395,,1205
+May,Canada,Ontario,51.2538,-85.3232,29390,,2344
+Jun,Canada,Ontario,51.2538,-85.3232,36961,,2730
+Jul,,Canada,Ontario,51.2538,-85.3232,40457,,2802
+Jan,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
+Feb,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
+Mar,Canada,Prince Edward Island,46.5107,-63.4168,21,,0
+Apr,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+May,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+Jun,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+Jul,,Canada,Prince Edward Island,46.5107,-63.4168,36,,0
+Jan,Canada,Quebec,52.9399,-73.5491,0,,0
+Feb,Canada,Quebec,52.9399,-73.5491,1,,0
+Mar,Canada,Quebec,52.9399,-73.5491,4162,,31
+Apr,Canada,Quebec,52.9399,-73.5491,27550,,1859
+May,Canada,Quebec,52.9399,-73.5491,51059,,4641
+Jun,Canada,Quebec,52.9399,-73.5491,55458,,5503
+Jul,,Canada,Quebec,52.9399,-73.5491,58414,,5666
+Jan,Canada,Recovery aggregated,56.1304,-106.3468,,0,
+Feb,Canada,Recovery aggregated,56.1304,-106.3468,,6,
+Mar,Canada,Recovery aggregated,56.1304,-106.3468,,1592,
+Apr,Canada,Recovery aggregated,56.1304,-106.3468,,21424,
+May,Canada,Recovery aggregated,56.1304,-106.3468,,49213,
+Jun,Canada,Recovery aggregated,56.1304,-106.3468,,69120,
+Jul,,Canada,Recovery aggregated,56.1304,-106.3468,,100765,
+Jan,Canada,Saskatchewan,52.9399,-106.4509,0,,0
+Feb,Canada,Saskatchewan,52.9399,-106.4509,0,,0
+Mar,Canada,Saskatchewan,52.9399,-106.4509,184,,2
+Apr,Canada,Saskatchewan,52.9399,-106.4509,389,,7
+May,Canada,Saskatchewan,52.9399,-106.4509,646,,11
+Jun,Canada,Saskatchewan,52.9399,-106.4509,785,,13
+Jul,,Canada,Saskatchewan,52.9399,-106.4509,1136,,16
+Jan,Canada,Yukon,64.2823,-135,0,,0
+Feb,Canada,Yukon,64.2823,-135,0,,0
+Mar,Canada,Yukon,64.2823,-135,5,,0
+Apr,Canada,Yukon,64.2823,-135,11,,0
+May,Canada,Yukon,64.2823,-135,11,,0
+Jun,Canada,Yukon,64.2823,-135,11,,0
+Jul,,Canada,Yukon,64.2823,-135,14,,0
+Jan,Central African Republic,,6.6111,20.9394,0,0,0
+Feb,Central African Republic,,6.6111,20.9394,0,0,0
+Mar,Central African Republic,,6.6111,20.9394,3,0,0
+Apr,Central African Republic,,6.6111,20.9394,50,10,0
+May,Central African Republic,,6.6111,20.9394,1011,23,2
+Jun,Central African Republic,,6.6111,20.9394,3745,787,47
+Jul,,Central African Republic,,6.6111,20.9394,4598,1506,59
+Jan,Chad,,15.4542,18.7322,0,0,0
+Feb,Chad,,15.4542,18.7322,0,0,0
+Mar,Chad,,15.4542,18.7322,7,0,0
+Apr,Chad,,15.4542,18.7322,73,33,5
+May,Chad,,15.4542,18.7322,778,491,65
+Jun,Chad,,15.4542,18.7322,866,781,74
+Jul,,Chad,,15.4542,18.7322,915,810,75
+Jan,Chile,,-35.6751,-71.543,0,0,0
+Feb,Chile,,-35.6751,-71.543,2,0,0
+Mar,Chile,,-35.6751,-71.543,2844,156,12
+Apr,Chile,,-35.6751,-71.543,17702,8580,227
+May,Chile,,-35.6751,-71.543,123550,42727,1054
+Jun,Chile,,-35.6751,-71.543,279393,241229,5688
+Jul,,Chile,,-35.6751,-71.543,343592,316169,9020
+Jan,China,Anhui,31.8257,117.2264,237,3,0
+Feb,China,Anhui,31.8257,117.2264,990,868,6
+Mar,China,Anhui,31.8257,117.2264,990,984,6
+Apr,China,Anhui,31.8257,117.2264,991,985,6
+May,China,Anhui,31.8257,117.2264,991,985,6
+Jun,China,Anhui,31.8257,117.2264,991,985,6
+Jul,,China,Anhui,31.8257,117.2264,991,985,6
+Jan,China,Beijing,40.1824,116.4142,139,5,1
+Feb,China,Beijing,40.1824,116.4142,411,271,8
+Mar,China,Beijing,40.1824,116.4142,580,418,8
+Apr,China,Beijing,40.1824,116.4142,593,547,9
+May,China,Beijing,40.1824,116.4142,593,581,9
+Jun,China,Beijing,40.1824,116.4142,922,587,9
+Jul,,China,Beijing,40.1824,116.4142,929,878,9
+Jan,China,Chongqing,30.0572,107.874,211,1,0
+Feb,China,Chongqing,30.0572,107.874,576,438,6
+Mar,China,Chongqing,30.0572,107.874,579,570,6
+Apr,China,Chongqing,30.0572,107.874,579,573,6
+May,China,Chongqing,30.0572,107.874,579,573,6
+Jun,China,Chongqing,30.0572,107.874,582,573,6
+Jul,,China,Chongqing,30.0572,107.874,583,576,6
+Jan,China,Fujian,26.0789,117.9874,120,0,0
+Feb,China,Fujian,26.0789,117.9874,296,243,1
+Mar,China,Fujian,26.0789,117.9874,343,295,1
+Apr,China,Fujian,26.0789,117.9874,356,353,1
+May,China,Fujian,26.0789,117.9874,358,355,1
+Jun,China,Fujian,26.0789,117.9874,363,359,1
+Jul,,China,Fujian,26.0789,117.9874,365,361,1
+Jan,China,Gansu,35.7518,104.2861,29,0,0
+Feb,China,Gansu,35.7518,104.2861,91,82,2
+Mar,China,Gansu,35.7518,104.2861,138,125,2
+Apr,China,Gansu,35.7518,104.2861,139,137,2
+May,China,Gansu,35.7518,104.2861,139,137,2
+Jun,China,Gansu,35.7518,104.2861,164,146,2
+Jul,,China,Gansu,35.7518,104.2861,167,165,2
+Jan,China,Guangdong,23.3417,113.4244,436,11,0
+Feb,China,Guangdong,23.3417,113.4244,1349,983,7
+Mar,China,Guangdong,23.3417,113.4244,1494,1356,8
+Apr,China,Guangdong,23.3417,113.4244,1588,1565,8
+May,China,Guangdong,23.3417,113.4244,1595,1583,8
+Jun,China,Guangdong,23.3417,113.4244,1641,1627,8
+Jul,,China,Guangdong,23.3417,113.4244,1672,1642,8
+Jan,China,Guangxi,23.8298,108.7881,87,2,0
+Feb,China,Guangxi,23.8298,108.7881,252,176,2
+Mar,China,Guangxi,23.8298,108.7881,254,250,2
+Apr,China,Guangxi,23.8298,108.7881,254,252,2
+May,China,Guangxi,23.8298,108.7881,254,252,2
+Jun,China,Guangxi,23.8298,108.7881,254,252,2
+Jul,,China,Guangxi,23.8298,108.7881,255,253,2
+Jan,China,Guizhou,26.8154,106.8748,29,2,0
+Feb,China,Guizhou,26.8154,106.8748,146,112,2
+Mar,China,Guizhou,26.8154,106.8748,146,144,2
+Apr,China,Guizhou,26.8154,106.8748,147,145,2
+May,China,Guizhou,26.8154,106.8748,147,145,2
+Jun,China,Guizhou,26.8154,106.8748,147,145,2
+Jul,,China,Guizhou,26.8154,106.8748,147,145,2
+Jan,China,Hainan,19.1959,109.7453,52,1,1
+Feb,China,Hainan,19.1959,109.7453,168,148,5
+Mar,China,Hainan,19.1959,109.7453,168,168,6
+Apr,China,Hainan,19.1959,109.7453,168,162,6
+May,China,Hainan,19.1959,109.7453,169,163,6
+Jun,China,Hainan,19.1959,109.7453,171,165,6
+Jul,,China,Hainan,19.1959,109.7453,171,165,6
+Jan,China,Hebei,39.549,116.1306,82,0,1
+Feb,China,Hebei,39.549,116.1306,318,282,6
+Mar,China,Hebei,39.549,116.1306,321,310,6
+Apr,China,Hebei,39.549,116.1306,328,318,6
+May,China,Hebei,39.549,116.1306,328,322,6
+Jun,China,Hebei,39.549,116.1306,349,334,6
+Jul,,China,Hebei,39.549,116.1306,349,342,6
+Jan,China,Heilongjiang,47.862,127.7615,59,0,2
+Feb,China,Heilongjiang,47.862,127.7615,480,301,13
+Mar,China,Heilongjiang,47.862,127.7615,484,469,13
+Apr,China,Heilongjiang,47.862,127.7615,944,587,13
+May,China,Heilongjiang,47.862,127.7615,945,932,13
+Jun,China,Heilongjiang,47.862,127.7615,947,934,13
+Jul,,China,Heilongjiang,47.862,127.7615,947,934,13
+Jan,China,Henan,37.8957,114.9042,352,3,2
+Feb,China,Henan,37.8957,114.9042,1272,1170,21
+Mar,China,Henan,37.8957,114.9042,1276,1251,22
+Apr,China,Henan,37.8957,114.9042,1276,1254,22
+May,China,Henan,37.8957,114.9042,1276,1254,22
+Jun,China,Henan,37.8957,114.9042,1276,1254,22
+Jul,,China,Henan,37.8957,114.9042,1276,1254,22
+Jan,China,Hong Kong,22.3,114.2,12,0,0
+Feb,China,Hong Kong,22.3,114.2,95,33,2
+Mar,China,Hong Kong,22.3,114.2,714,128,4
+Apr,China,Hong Kong,22.3,114.2,1037,846,4
+May,China,Hong Kong,22.3,114.2,1084,1037,4
+Jun,China,Hong Kong,22.3,114.2,1205,1107,7
+Jul,,China,Hong Kong,22.3,114.2,2505,1455,18
+Jan,China,Hubei,30.9756,112.2707,5806,141,204
+Feb,China,Hubei,30.9756,112.2707,66337,28993,2727
+Mar,China,Hubei,30.9756,112.2707,67801,63153,3187
+Apr,China,Hubei,30.9756,112.2707,68128,63616,4512
+May,China,Hubei,30.9756,112.2707,68135,63620,4512
+Jun,China,Hubei,30.9756,112.2707,68135,63623,4512
+Jul,,China,Hubei,30.9756,112.2707,68135,63623,4512
+Jan,China,Hunan,27.6104,111.7088,332,2,0
+Feb,China,Hunan,27.6104,111.7088,1018,846,4
+Mar,China,Hunan,27.6104,111.7088,1018,1014,4
+Apr,China,Hunan,27.6104,111.7088,1019,1015,4
+May,China,Hunan,27.6104,111.7088,1019,1015,4
+Jun,China,Hunan,27.6104,111.7088,1019,1015,4
+Jul,,China,Hunan,27.6104,111.7088,1019,1015,4
+Jan,China,Inner Mongolia,44.0935,113.9448,20,1,0
+Feb,China,Inner Mongolia,44.0935,113.9448,75,49,0
+Mar,China,Inner Mongolia,44.0935,113.9448,107,74,1
+Apr,China,Inner Mongolia,44.0935,113.9448,201,152,1
+May,China,Inner Mongolia,44.0935,113.9448,235,207,1
+Jun,China,Inner Mongolia,44.0935,113.9448,238,237,1
+Jul,,China,Inner Mongolia,44.0935,113.9448,256,244,1
+Jan,China,Jiangsu,32.9711,119.455,168,5,0
+Feb,China,Jiangsu,32.9711,119.455,631,523,0
+Mar,China,Jiangsu,32.9711,119.455,646,631,0
+Apr,China,Jiangsu,32.9711,119.455,653,650,0
+May,China,Jiangsu,32.9711,119.455,653,653,0
+Jun,China,Jiangsu,32.9711,119.455,654,654,0
+Jul,,China,Jiangsu,32.9711,119.455,655,654,0
+Jan,China,Jiangxi,27.614,115.7221,240,7,0
+Feb,China,Jiangxi,27.614,115.7221,935,811,1
+Mar,China,Jiangxi,27.614,115.7221,937,935,1
+Apr,China,Jiangxi,27.614,115.7221,937,936,1
+May,China,Jiangxi,27.614,115.7221,937,936,1
+Jun,China,Jiangxi,27.614,115.7221,932,931,1
+Jul,,China,Jiangxi,27.614,115.7221,932,931,1
+Jan,China,Jilin,43.6661,126.1923,14,1,0
+Feb,China,Jilin,43.6661,126.1923,93,75,1
+Mar,China,Jilin,43.6661,126.1923,98,92,1
+Apr,China,Jilin,43.6661,126.1923,111,101,1
+May,China,Jilin,43.6661,126.1923,155,144,2
+Jun,China,Jilin,43.6661,126.1923,155,153,2
+Jul,,China,Jilin,43.6661,126.1923,155,153,2
+Jan,China,Liaoning,41.2956,122.6085,48,1,0
+Feb,China,Liaoning,41.2956,122.6085,121,96,1
+Mar,China,Liaoning,41.2956,122.6085,139,124,2
+Apr,China,Liaoning,41.2956,122.6085,146,143,2
+May,China,Liaoning,41.2956,122.6085,149,147,2
+Jun,China,Liaoning,41.2956,122.6085,155,148,2
+Jul,,China,Liaoning,41.2956,122.6085,189,159,2
+Jan,China,Macau,22.1667,113.55,7,0,0
+Feb,China,Macau,22.1667,113.55,10,8,0
+Mar,China,Macau,22.1667,113.55,41,10,0
+Apr,China,Macau,22.1667,113.55,45,35,0
+May,China,Macau,22.1667,113.55,45,45,0
+Jun,China,Macau,22.1667,113.55,46,45,0
+Jul,,China,Macau,22.1667,113.55,46,46,0
+Jan,China,Ningxia,37.2692,106.1655,21,0,0
+Feb,China,Ningxia,37.2692,106.1655,73,69,0
+Mar,China,Ningxia,37.2692,106.1655,75,75,0
+Apr,China,Ningxia,37.2692,106.1655,75,75,0
+May,China,Ningxia,37.2692,106.1655,75,75,0
+Jun,China,Ningxia,37.2692,106.1655,75,75,0
+Jul,,China,Ningxia,37.2692,106.1655,75,75,0
+Jan,China,Qinghai,35.7452,95.9956,8,0,0
+Feb,China,Qinghai,35.7452,95.9956,18,18,0
+Mar,China,Qinghai,35.7452,95.9956,18,18,0
+Apr,China,Qinghai,35.7452,95.9956,18,18,0
+May,China,Qinghai,35.7452,95.9956,18,18,0
+Jun,China,Qinghai,35.7452,95.9956,18,18,0
+Jul,,China,Qinghai,35.7452,95.9956,18,18,0
+Jan,China,Shaanxi,35.1917,108.8701,87,0,0
+Feb,China,Shaanxi,35.1917,108.8701,245,207,1
+Mar,China,Shaanxi,35.1917,108.8701,253,242,3
+Apr,China,Shaanxi,35.1917,108.8701,306,254,3
+May,China,Shaanxi,35.1917,108.8701,308,305,3
+Jun,China,Shaanxi,35.1917,108.8701,320,309,3
+Jul,,China,Shaanxi,35.1917,108.8701,323,317,3
+Jan,China,Shandong,36.3427,118.1498,184,2,0
+Feb,China,Shandong,36.3427,118.1498,756,421,6
+Mar,China,Shandong,36.3427,118.1498,774,753,7
+Apr,China,Shandong,36.3427,118.1498,787,772,7
+May,China,Shandong,36.3427,118.1498,792,780,7
+Jun,China,Shandong,36.3427,118.1498,792,785,7
+Jul,,China,Shandong,36.3427,118.1498,799,785,7
+Jan,China,Shanghai,31.202,121.4491,135,9,1
+Feb,China,Shanghai,31.202,121.4491,337,287,3
+Mar,China,Shanghai,31.202,121.4491,509,341,5
+Apr,China,Shanghai,31.202,121.4491,652,599,7
+May,China,Shanghai,31.202,121.4491,672,657,7
+Jun,China,Shanghai,31.202,121.4491,712,675,7
+Jul,,China,Shanghai,31.202,121.4491,741,716,7
+Jan,China,Shanxi,37.5777,112.2922,39,1,0
+Feb,China,Shanxi,37.5777,112.2922,133,114,0
+Mar,China,Shanxi,37.5777,112.2922,136,133,0
+Apr,China,Shanxi,37.5777,112.2922,197,172,0
+May,China,Shanxi,37.5777,112.2922,198,198,0
+Jun,China,Shanxi,37.5777,112.2922,198,198,0
+Jul,,China,Shanxi,37.5777,112.2922,201,201,0
+Jan,China,Sichuan,30.6171,102.7103,177,1,1
+Feb,China,Sichuan,30.6171,102.7103,538,351,3
+Mar,China,Sichuan,30.6171,102.7103,550,536,3
+Apr,China,Sichuan,30.6171,102.7103,561,558,3
+May,China,Sichuan,30.6171,102.7103,575,558,3
+Jun,China,Sichuan,30.6171,102.7103,595,580,3
+Jul,,China,Sichuan,30.6171,102.7103,603,594,3
+Jan,China,Tianjin,39.3054,117.323,32,0,0
+Feb,China,Tianjin,39.3054,117.323,136,109,3
+Mar,China,Tianjin,39.3054,117.323,174,135,3
+Apr,China,Tianjin,39.3054,117.323,190,184,3
+May,China,Tianjin,39.3054,117.323,192,188,3
+Jun,China,Tianjin,39.3054,117.323,198,194,3
+Jul,,China,Tianjin,39.3054,117.323,204,195,3
+Jan,China,Tibet,31.6927,88.0924,1,0,0
+Feb,China,Tibet,31.6927,88.0924,1,1,0
+Mar,China,Tibet,31.6927,88.0924,1,1,0
+Apr,China,Tibet,31.6927,88.0924,1,1,0
+May,China,Tibet,31.6927,88.0924,1,1,0
+Jun,China,Tibet,31.6927,88.0924,1,1,0
+Jul,,China,Tibet,31.6927,88.0924,1,1,0
+Jan,China,Xinjiang,41.1129,85.2401,17,0,0
+Feb,China,Xinjiang,41.1129,85.2401,76,62,3
+Mar,China,Xinjiang,41.1129,85.2401,76,73,3
+Apr,China,Xinjiang,41.1129,85.2401,76,73,3
+May,China,Xinjiang,41.1129,85.2401,76,73,3
+Jun,China,Xinjiang,41.1129,85.2401,76,73,3
+Jul,,China,Xinjiang,41.1129,85.2401,213,73,3
+Jan,China,Yunnan,24.974,101.487,83,1,0
+Feb,China,Yunnan,24.974,101.487,174,157,2
+Mar,China,Yunnan,24.974,101.487,182,172,2
+Apr,China,Yunnan,24.974,101.487,185,181,2
+May,China,Yunnan,24.974,101.487,185,183,2
+Jun,China,Yunnan,24.974,101.487,185,183,2
+Jul,,China,Yunnan,24.974,101.487,189,186,2
+Jan,China,Zhejiang,29.1832,120.0934,538,14,0
+Feb,China,Zhejiang,29.1832,120.0934,1205,1016,1
+Mar,China,Zhejiang,29.1832,120.0934,1257,1226,1
+Apr,China,Zhejiang,29.1832,120.0934,1268,1264,1
+May,China,Zhejiang,29.1832,120.0934,1268,1267,1
+Jun,China,Zhejiang,29.1832,120.0934,1269,1267,1
+Jul,,China,Zhejiang,29.1832,120.0934,1270,1268,1
+Jan,Colombia,,4.5709,-74.2973,0,0,0
+Feb,Colombia,,4.5709,-74.2973,0,0,0
+Mar,Colombia,,4.5709,-74.2973,906,31,16
+Apr,Colombia,,4.5709,-74.2973,6507,1439,293
+May,Colombia,,4.5709,-74.2973,29383,7032,939
+Jun,Colombia,,4.5709,-74.2973,97846,40021,3334
+Jul,,Colombia,,4.5709,-74.2973,240795,119667,8269
+Jan,Comoros,,-11.6455,43.3333,0,0,0
+Feb,Comoros,,-11.6455,43.3333,0,0,0
+Mar,Comoros,,-11.6455,43.3333,0,0,0
+Apr,Comoros,,-11.6455,43.3333,1,0,0
+May,Comoros,,-11.6455,43.3333,106,26,2
+Jun,Comoros,,-11.6455,43.3333,303,200,7
+Jul,,Comoros,,-11.6455,43.3333,340,324,7
+Jan,Congo (Brazzaville),,-0.228,15.8277,0,0,0
+Feb,Congo (Brazzaville),,-0.228,15.8277,0,0,0
+Mar,Congo (Brazzaville),,-0.228,15.8277,19,0,0
+Apr,Congo (Brazzaville),,-0.228,15.8277,220,19,9
+May,Congo (Brazzaville),,-0.228,15.8277,611,179,20
+Jun,Congo (Brazzaville),,-0.228,15.8277,1087,456,37
+Jul,,Congo (Brazzaville),,-0.228,15.8277,3038,756,51
+Jan,Congo (Kinshasa),,-4.0383,21.7587,0,0,0
+Feb,Congo (Kinshasa),,-4.0383,21.7587,0,0,0
+Mar,Congo (Kinshasa),,-4.0383,21.7587,98,2,8
+Apr,Congo (Kinshasa),,-4.0383,21.7587,572,73,31
+May,Congo (Kinshasa),,-4.0383,21.7587,3070,448,72
+Jun,Congo (Kinshasa),,-4.0383,21.7587,7039,1426,170
+Jul,,Congo (Kinshasa),,-4.0383,21.7587,8801,5305,204
+Jan,Costa Rica,,9.7489,-83.7534,0,0,0
+Feb,Costa Rica,,9.7489,-83.7534,0,0,0
+Mar,Costa Rica,,9.7489,-83.7534,347,4,2
+Apr,Costa Rica,,9.7489,-83.7534,719,338,6
+May,Costa Rica,,9.7489,-83.7534,1056,669,10
+Jun,Costa Rica,,9.7489,-83.7534,3459,1436,16
+Jul,,Costa Rica,,9.7489,-83.7534,14600,3640,98
+Jan,Cote d'Ivoire,,7.54,-5.5471,0,0,0
+Feb,Cote d'Ivoire,,7.54,-5.5471,0,0,0
+Mar,Cote d'Ivoire,,7.54,-5.5471,179,7,1
+Apr,Cote d'Ivoire,,7.54,-5.5471,1275,574,14
+May,Cote d'Ivoire,,7.54,-5.5471,2833,1435,33
+Jun,Cote d'Ivoire,,7.54,-5.5471,9499,4273,68
+Jul,,Cote d'Ivoire,,7.54,-5.5471,15494,9880,94
+Jan,Croatia,,45.1,15.2,0,0,0
+Feb,Croatia,,45.1,15.2,6,0,0
+Mar,Croatia,,45.1,15.2,867,67,6
+Apr,Croatia,,45.1,15.2,2076,1348,69
+May,Croatia,,45.1,15.2,2246,2072,103
+Jun,Croatia,,45.1,15.2,2777,2155,107
+Jul,,Croatia,,45.1,15.2,4792,3778,133
+Jan,Cuba,,21.521757,-77.781167,0,0,0
+Feb,Cuba,,21.521757,-77.781167,0,0,0
+Mar,Cuba,,21.521757,-77.781167,186,8,6
+Apr,Cuba,,21.521757,-77.781167,1501,681,61
+May,Cuba,,21.521757,-77.781167,2045,1809,83
+Jun,Cuba,,21.521757,-77.781167,2341,2214,86
+Jul,,Cuba,,21.521757,-77.781167,2478,2345,87
+Jan,Cyprus,,35.1264,33.4299,0,0,0
+Feb,Cyprus,,35.1264,33.4299,0,0,0
+Mar,Cyprus,,35.1264,33.4299,262,23,8
+Apr,Cyprus,,35.1264,33.4299,850,296,15
+May,Cyprus,,35.1264,33.4299,944,790,17
+Jun,Cyprus,,35.1264,33.4299,998,833,19
+Jul,,Cyprus,,35.1264,33.4299,1053,852,19
+Jan,Czechia,,49.8175,15.473,0,0,0
+Feb,Czechia,,49.8175,15.473,0,0,0
+Mar,Czechia,,49.8175,15.473,3308,45,31
+Apr,Czechia,,49.8175,15.473,7682,3314,236
+May,Czechia,,49.8175,15.473,9268,6558,320
+Jun,Czechia,,49.8175,15.473,11954,7771,349
+Jul,,Czechia,,49.8175,15.473,15212,9590,369
+Jan,Denmark,,56.2639,9.5018,0,0,0
+Feb,Denmark,,56.2639,9.5018,3,0,0
+Mar,Denmark,,56.2639,9.5018,2860,1,90
+Apr,Denmark,,56.2639,9.5018,9158,6546,452
+May,Denmark,,56.2639,9.5018,11669,10362,574
+Jun,Denmark,,56.2639,9.5018,12768,11649,605
+Jul,,Denmark,,56.2639,9.5018,13438,12340,613
+Jan,Denmark,Faroe Islands,61.8926,-6.9118,0,0,0
+Feb,Denmark,Faroe Islands,61.8926,-6.9118,0,0,0
+Mar,Denmark,Faroe Islands,61.8926,-6.9118,169,74,0
+Apr,Denmark,Faroe Islands,61.8926,-6.9118,187,184,0
+May,Denmark,Faroe Islands,61.8926,-6.9118,187,187,0
+Jun,Denmark,Faroe Islands,61.8926,-6.9118,187,187,0
+Jul,,Denmark,Faroe Islands,61.8926,-6.9118,192,188,0
+Jan,Denmark,Greenland,71.7069,-42.6043,0,0,0
+Feb,Denmark,Greenland,71.7069,-42.6043,0,0,0
+Mar,Denmark,Greenland,71.7069,-42.6043,10,2,0
+Apr,Denmark,Greenland,71.7069,-42.6043,11,11,0
+May,Denmark,Greenland,71.7069,-42.6043,13,11,0
+Jun,Denmark,Greenland,71.7069,-42.6043,13,13,0
+Jul,,Denmark,Greenland,71.7069,-42.6043,13,13,0
+Jan,Diamond Princess,,0,0,0,0,0
+Feb,Diamond Princess,,0,0,705,10,6
+Mar,Diamond Princess,,0,0,712,603,10
+Apr,Diamond Princess,,0,0,712,645,13
+May,Diamond Princess,,0,0,712,651,13
+Jun,Diamond Princess,,0,0,712,651,13
+Jul,,Diamond Princess,,0,0,712,651,13
+Jan,Djibouti,,11.8251,42.5903,0,0,0
+Feb,Djibouti,,11.8251,42.5903,0,0,0
+Mar,Djibouti,,11.8251,42.5903,30,0,0
+Apr,Djibouti,,11.8251,42.5903,1089,642,2
+May,Djibouti,,11.8251,42.5903,3354,1504,24
+Jun,Djibouti,,11.8251,42.5903,4682,4524,54
+Jul,,Djibouti,,11.8251,42.5903,5039,4949,58
+Jan,Dominica,,15.415,-61.371,0,0,0
+Feb,Dominica,,15.415,-61.371,0,0,0
+Mar,Dominica,,15.415,-61.371,12,0,0
+Apr,Dominica,,15.415,-61.371,16,13,0
+May,Dominica,,15.415,-61.371,16,16,0
+Jun,Dominica,,15.415,-61.371,18,18,0
+Jul,,Dominica,,15.415,-61.371,18,18,0
+Jan,Dominican Republic,,18.7357,-70.1627,0,0,0
+Feb,Dominican Republic,,18.7357,-70.1627,0,0,0
+Mar,Dominican Republic,,18.7357,-70.1627,1109,5,51
+Apr,Dominican Republic,,18.7357,-70.1627,6972,1301,301
+May,Dominican Republic,,18.7357,-70.1627,17285,10559,502
+Jun,Dominican Republic,,18.7357,-70.1627,32568,17580,747
+Jul,,Dominican Republic,,18.7357,-70.1627,60896,27980,1055
+Jan,Ecuador,,-1.8312,-78.1834,0,0,0
+Feb,Ecuador,,-1.8312,-78.1834,0,0,0
+Mar,Ecuador,,-1.8312,-78.1834,2240,54,75
+Apr,Ecuador,,-1.8312,-78.1834,24934,1558,900
+May,Ecuador,,-1.8312,-78.1834,39098,19592,3358
+Jun,Ecuador,,-1.8312,-78.1834,56432,27594,4527
+Jul,,Ecuador,,-1.8312,-78.1834,80036,34544,5507
+Jan,Egypt,,26.820553,30.802498,0,0,0
+Feb,Egypt,,26.820553,30.802498,1,1,0
+Mar,Egypt,,26.820553,30.802498,710,157,46
+Apr,Egypt,,26.820553,30.802498,5537,1381,392
+May,Egypt,,26.820553,30.802498,24985,6037,959
+Jun,Egypt,,26.820553,30.802498,68311,18460,2953
+Jul,,Egypt,,26.820553,30.802498,91583,32903,4558
+Jan,El Salvador,,13.7942,-88.8965,0,0,0
+Feb,El Salvador,,13.7942,-88.8965,0,0,0
+Mar,El Salvador,,13.7942,-88.8965,32,0,1
+Apr,El Salvador,,13.7942,-88.8965,395,119,10
+May,El Salvador,,13.7942,-88.8965,2517,1040,46
+Jun,El Salvador,,13.7942,-88.8965,6438,3770,174
+Jul,,El Salvador,,13.7942,-88.8965,14221,7549,390
+Jan,Equatorial Guinea,,1.6508,10.2679,0,0,0
+Feb,Equatorial Guinea,,1.6508,10.2679,0,0,0
+Mar,Equatorial Guinea,,1.6508,10.2679,12,1,0
+Apr,Equatorial Guinea,,1.6508,10.2679,315,9,1
+May,Equatorial Guinea,,1.6508,10.2679,1306,200,12
+Jun,Equatorial Guinea,,1.6508,10.2679,2001,515,32
+Jul,,Equatorial Guinea,,1.6508,10.2679,3071,842,51
+Jan,Eritrea,,15.1794,39.7823,0,0,0
+Feb,Eritrea,,15.1794,39.7823,0,0,0
+Mar,Eritrea,,15.1794,39.7823,15,0,0
+Apr,Eritrea,,15.1794,39.7823,39,26,0
+May,Eritrea,,15.1794,39.7823,39,39,0
+Jun,Eritrea,,15.1794,39.7823,203,53,0
+Jul,,Eritrea,,15.1794,39.7823,263,189,0
+Jan,Estonia,,58.5953,25.0136,0,0,0
+Feb,Estonia,,58.5953,25.0136,1,0,0
+Mar,Estonia,,58.5953,25.0136,745,26,4
+Apr,Estonia,,58.5953,25.0136,1689,249,52
+May,Estonia,,58.5953,25.0136,1869,1624,68
+Jun,Estonia,,58.5953,25.0136,1989,1829,69
+Jul,,Estonia,,58.5953,25.0136,2033,1915,69
+Jan,Eswatini,,-26.5225,31.4659,0,0,0
+Feb,Eswatini,,-26.5225,31.4659,0,0,0
+Mar,Eswatini,,-26.5225,31.4659,9,0,0
+Apr,Eswatini,,-26.5225,31.4659,100,12,1
+May,Eswatini,,-26.5225,31.4659,285,189,2
+Jun,Eswatini,,-26.5225,31.4659,812,408,11
+Jul,,Eswatini,,-26.5225,31.4659,2142,940,28
+Jan,Ethiopia,,9.145,40.4897,0,0,0
+Feb,Ethiopia,,9.145,40.4897,0,0,0
+Mar,Ethiopia,,9.145,40.4897,26,2,0
+Apr,Ethiopia,,9.145,40.4897,131,59,3
+May,Ethiopia,,9.145,40.4897,1172,209,11
+Jun,Ethiopia,,9.145,40.4897,5846,2430,103
+Jul,,Ethiopia,,9.145,40.4897,13248,5966,209
+Jan,Fiji,,-17.7134,178.065,0,0,0
+Feb,Fiji,,-17.7134,178.065,0,0,0
+Mar,Fiji,,-17.7134,178.065,5,0,0
+Apr,Fiji,,-17.7134,178.065,18,12,0
+May,Fiji,,-17.7134,178.065,18,15,0
+Jun,Fiji,,-17.7134,178.065,18,18,0
+Jul,,Fiji,,-17.7134,178.065,27,18,0
+Jan,Finland,,61.92411,25.748151,1,0,0
+Feb,Finland,,61.92411,25.748151,3,1,0
+Mar,Finland,,61.92411,25.748151,1418,10,17
+Apr,Finland,,61.92411,25.748151,4995,3000,211
+May,Finland,,61.92411,25.748151,6859,5500,320
+Jun,Finland,,61.92411,25.748151,7214,6600,328
+Jul,,Finland,,61.92411,25.748151,7388,6920,329
+Jan,France,,46.2276,2.2137,5,0,0
+Feb,France,,46.2276,2.2137,100,12,2
+Mar,France,,46.2276,2.2137,52128,9444,3523
+Apr,France,,46.2276,2.2137,165764,48572,24345
+May,France,,46.2276,2.2137,185851,66123,28751
+Jun,France,,46.2276,2.2137,194373,71714,29763
+Jul,,France,,46.2276,2.2137,206334,71566,30081
+Jan,France,French Guiana,3.9339,-53.1258,0,0,0
+Feb,France,French Guiana,3.9339,-53.1258,0,0,0
+Mar,France,French Guiana,3.9339,-53.1258,43,6,0
+Apr,France,French Guiana,3.9339,-53.1258,126,94,1
+May,France,French Guiana,3.9339,-53.1258,499,200,1
+Jun,France,French Guiana,3.9339,-53.1258,4004,1508,15
+Jul,,France,French Guiana,3.9339,-53.1258,7332,5767,41
+Jan,France,French Polynesia,-17.6797,149.4068,0,0,0
+Feb,France,French Polynesia,-17.6797,149.4068,0,0,0
+Mar,France,French Polynesia,-17.6797,149.4068,36,0,0
+Apr,France,French Polynesia,-17.6797,149.4068,58,50,0
+May,France,French Polynesia,-17.6797,149.4068,60,60,0
+Jun,France,French Polynesia,-17.6797,149.4068,62,60,0
+Jul,,France,French Polynesia,-17.6797,149.4068,62,60,0
+Jan,France,Guadeloupe,16.265,-61.551,0,0,0
+Feb,France,Guadeloupe,16.265,-61.551,0,0,0
+Mar,France,Guadeloupe,16.265,-61.551,114,22,4
+Apr,France,Guadeloupe,16.265,-61.551,151,95,12
+May,France,Guadeloupe,16.265,-61.551,162,138,14
+Jun,France,Guadeloupe,16.265,-61.551,182,157,14
+Jul,,France,Guadeloupe,16.265,-61.551,203,176,14
+Jan,France,Martinique,14.6415,-61.0242,0,0,0
+Feb,France,Martinique,14.6415,-61.0242,0,0,0
+Mar,France,Martinique,14.6415,-61.0242,128,27,3
+Apr,France,Martinique,14.6415,-61.0242,178,83,14
+May,France,Martinique,14.6415,-61.0242,200,98,14
+Jun,France,Martinique,14.6415,-61.0242,242,98,14
+Jul,,France,Martinique,14.6415,-61.0242,269,98,15
+Jan,France,Mayotte,-12.8275,45.166244,0,0,0
+Feb,France,Mayotte,-12.8275,45.166244,0,0,0
+Mar,France,Mayotte,-12.8275,45.166244,94,10,1
+Apr,France,Mayotte,-12.8275,45.166244,539,235,4
+May,France,Mayotte,-12.8275,45.166244,1699,1385,21
+Jun,France,Mayotte,-12.8275,45.166244,2603,2325,35
+Jul,,France,Mayotte,-12.8275,45.166244,2862,2650,38
+Jan,France,New Caledonia,-20.904305,165.618042,0,0,0
+Feb,France,New Caledonia,-20.904305,165.618042,0,0,0
+Mar,France,New Caledonia,-20.904305,165.618042,16,0,0
+Apr,France,New Caledonia,-20.904305,165.618042,18,17,0
+May,France,New Caledonia,-20.904305,165.618042,19,18,0
+Jun,France,New Caledonia,-20.904305,165.618042,21,21,0
+Jul,,France,New Caledonia,-20.904305,165.618042,22,22,0
+Jan,France,Reunion,-21.1151,55.5364,0,0,0
+Feb,France,Reunion,-21.1151,55.5364,0,0,0
+Mar,France,Reunion,-21.1151,55.5364,247,1,0
+Apr,France,Reunion,-21.1151,55.5364,420,300,0
+May,France,Reunion,-21.1151,55.5364,471,411,1
+Jun,France,Reunion,-21.1151,55.5364,526,472,2
+Jul,,France,Reunion,-21.1151,55.5364,657,558,3
+Jan,France,Saint Barthelemy,17.9,-62.8333,0,0,0
+Feb,France,Saint Barthelemy,17.9,-62.8333,0,0,0
+Mar,France,Saint Barthelemy,17.9,-62.8333,6,1,0
+Apr,France,Saint Barthelemy,17.9,-62.8333,6,6,0
+May,France,Saint Barthelemy,17.9,-62.8333,6,6,0
+Jun,France,Saint Barthelemy,17.9,-62.8333,6,6,0
+Jul,,France,Saint Barthelemy,17.9,-62.8333,7,6,0
+Jan,France,Saint Pierre and Miquelon,46.8852,-56.3159,0,0,0
+Feb,France,Saint Pierre and Miquelon,46.8852,-56.3159,0,0,0
+Mar,France,Saint Pierre and Miquelon,46.8852,-56.3159,0,0,0
+Apr,France,Saint Pierre and Miquelon,46.8852,-56.3159,1,0,0
+May,France,Saint Pierre and Miquelon,46.8852,-56.3159,1,1,0
+Jun,France,Saint Pierre and Miquelon,46.8852,-56.3159,1,1,0
+Jul,,France,Saint Pierre and Miquelon,46.8852,-56.3159,4,1,0
+Jan,France,St Martin,18.0708,-63.0501,0,0,0
+Feb,France,St Martin,18.0708,-63.0501,0,0,0
+Mar,France,St Martin,18.0708,-63.0501,15,2,1
+Apr,France,St Martin,18.0708,-63.0501,38,24,3
+May,France,St Martin,18.0708,-63.0501,41,33,3
+Jun,France,St Martin,18.0708,-63.0501,43,37,3
+Jul,,France,St Martin,18.0708,-63.0501,49,41,3
+Jan,Gabon,,-0.8037,11.6094,0,0,0
+Feb,Gabon,,-0.8037,11.6094,0,0,0
+Mar,Gabon,,-0.8037,11.6094,16,0,1
+Apr,Gabon,,-0.8037,11.6094,276,67,3
+May,Gabon,,-0.8037,11.6094,2655,722,17
+Jun,Gabon,,-0.8037,11.6094,5394,2420,42
+Jul,,Gabon,,-0.8037,11.6094,6984,4463,49
+Jan,Gambia,,13.4432,-15.3101,0,0,0
+Feb,Gambia,,13.4432,-15.3101,0,0,0
+Mar,Gambia,,13.4432,-15.3101,4,0,1
+Apr,Gambia,,13.4432,-15.3101,11,8,1
+May,Gambia,,13.4432,-15.3101,25,20,1
+Jun,Gambia,,13.4432,-15.3101,49,27,2
+Jul,,Gambia,,13.4432,-15.3101,277,60,6
+Jan,Georgia,,42.3154,43.3569,0,0,0
+Feb,Georgia,,42.3154,43.3569,1,0,0
+Mar,Georgia,,42.3154,43.3569,110,21,0
+Apr,Georgia,,42.3154,43.3569,539,184,6
+May,Georgia,,42.3154,43.3569,783,605,12
+Jun,Georgia,,42.3154,43.3569,928,794,15
+Jul,,Georgia,,42.3154,43.3569,1117,917,16
+Jan,Germany,,51.165691,10.451526,5,0,0
+Feb,Germany,,51.165691,10.451526,79,16,0
+Mar,Germany,,51.165691,10.451526,71808,16100,775
+Apr,Germany,,51.165691,10.451526,163009,123500,6623
+May,Germany,,51.165691,10.451526,183410,165352,8540
+Jun,Germany,,51.165691,10.451526,195418,178100,8990
+Jul,,Germany,,51.165691,10.451526,206278,189919,9124
+Jan,Ghana,,7.9465,-1.0232,0,0,0
+Feb,Ghana,,7.9465,-1.0232,0,0,0
+Mar,Ghana,,7.9465,-1.0232,161,31,5
+Apr,Ghana,,7.9465,-1.0232,2074,212,17
+May,Ghana,,7.9465,-1.0232,8070,2947,36
+Jun,Ghana,,7.9465,-1.0232,17741,13268,112
+Jul,,Ghana,,7.9465,-1.0232,31851,28438,161
+Jan,Greece,,39.0742,21.8243,0,0,0
+Feb,Greece,,39.0742,21.8243,4,0,0
+Mar,Greece,,39.0742,21.8243,1314,52,49
+Apr,Greece,,39.0742,21.8243,2591,1374,140
+May,Greece,,39.0742,21.8243,2917,1374,175
+Jun,Greece,,39.0742,21.8243,3409,1374,192
+Jul,,Greece,,39.0742,21.8243,4166,1374,201
+Jan,Grenada,,12.1165,-61.679,0,0,0
+Feb,Grenada,,12.1165,-61.679,0,0,0
+Mar,Grenada,,12.1165,-61.679,9,0,0
+Apr,Grenada,,12.1165,-61.679,20,13,0
+May,Grenada,,12.1165,-61.679,23,18,0
+Jun,Grenada,,12.1165,-61.679,23,23,0
+Jul,,Grenada,,12.1165,-61.679,23,23,0
+Jan,Guatemala,,15.7835,-90.2308,0,0,0
+Feb,Guatemala,,15.7835,-90.2308,0,0,0
+Mar,Guatemala,,15.7835,-90.2308,38,12,1
+Apr,Guatemala,,15.7835,-90.2308,599,66,16
+May,Guatemala,,15.7835,-90.2308,5087,735,108
+Jun,Guatemala,,15.7835,-90.2308,18096,3194,773
+Jul,,Guatemala,,15.7835,-90.2308,44492,31045,1699
+Jan,Guinea-Bissau,,11.8037,-15.1804,0,0,0
+Feb,Guinea-Bissau,,11.8037,-15.1804,0,0,0
+Mar,Guinea-Bissau,,11.8037,-15.1804,8,0,0
+Apr,Guinea-Bissau,,11.8037,-15.1804,205,19,1
+May,Guinea-Bissau,,11.8037,-15.1804,1256,42,8
+Jun,Guinea-Bissau,,11.8037,-15.1804,1654,317,24
+Jul,,Guinea-Bissau,,11.8037,-15.1804,1954,803,26
+Jan,Guinea,,9.9456,-9.6966,0,0,0
+Feb,Guinea,,9.9456,-9.6966,0,0,0
+Mar,Guinea,,9.9456,-9.6966,22,0,0
+Apr,Guinea,,9.9456,-9.6966,1495,329,7
+May,Guinea,,9.9456,-9.6966,3706,2030,23
+Jun,Guinea,,9.9456,-9.6966,5391,4326,33
+Jul,,Guinea,,9.9456,-9.6966,6927,6098,42
+Jan,Guyana,,4.860416,-58.93018,0,0,0
+Feb,Guyana,,4.860416,-58.93018,0,0,0
+Mar,Guyana,,4.860416,-58.93018,12,0,2
+Apr,Guyana,,4.860416,-58.93018,82,22,9
+May,Guyana,,4.860416,-58.93018,153,70,12
+Jun,Guyana,,4.860416,-58.93018,245,114,12
+Jul,,Guyana,,4.860416,-58.93018,360,180,20
+Jan,Haiti,,18.9712,-72.2852,0,0,0
+Feb,Haiti,,18.9712,-72.2852,0,0,0
+Mar,Haiti,,18.9712,-72.2852,15,1,0
+Apr,Haiti,,18.9712,-72.2852,81,8,8
+May,Haiti,,18.9712,-72.2852,2124,24,44
+Jun,Haiti,,18.9712,-72.2852,5975,931,105
+Jul,,Haiti,,18.9712,-72.2852,7297,4365,157
+Jan,Holy See,,41.9029,12.4534,0,0,0
+Feb,Holy See,,41.9029,12.4534,0,0,0
+Mar,Holy See,,41.9029,12.4534,6,0,0
+Apr,Holy See,,41.9029,12.4534,11,2,0
+May,Holy See,,41.9029,12.4534,12,2,0
+Jun,Holy See,,41.9029,12.4534,12,12,0
+Jul,,Holy See,,41.9029,12.4534,12,12,0
+Jan,Honduras,,15.2,-86.2419,0,0,0
+Feb,Honduras,,15.2,-86.2419,0,0,0
+Mar,Honduras,,15.2,-86.2419,141,3,7
+Apr,Honduras,,15.2,-86.2419,771,79,71
+May,Honduras,,15.2,-86.2419,5202,537,212
+Jun,Honduras,,15.2,-86.2419,19558,2060,497
+Jul,,Honduras,,15.2,-86.2419,38438,4713,1098
+Jan,Hungary,,47.1625,19.5033,0,0,0
+Feb,Hungary,,47.1625,19.5033,0,0,0
+Mar,Hungary,,47.1625,19.5033,492,37,16
+Apr,Hungary,,47.1625,19.5033,2775,581,312
+May,Hungary,,47.1625,19.5033,3876,2147,526
+Jun,Hungary,,47.1625,19.5033,4155,2692,585
+Jul,,Hungary,,47.1625,19.5033,4424,3324,596
+Jan,Iceland,,64.9631,-19.0208,0,0,0
+Feb,Iceland,,64.9631,-19.0208,1,0,0
+Mar,Iceland,,64.9631,-19.0208,1135,198,2
+Apr,Iceland,,64.9631,-19.0208,1797,1670,10
+May,Iceland,,64.9631,-19.0208,1806,1794,10
+Jun,Iceland,,64.9631,-19.0208,1824,1800,10
+Jul,,Iceland,,64.9631,-19.0208,1843,1823,10
+Jan,India,,20.593684,78.96288,1,0,0
+Feb,India,,20.593684,78.96288,3,3,0
+Mar,India,,20.593684,78.96288,1397,123,35
+Apr,India,,20.593684,78.96288,34863,9068,1154
+May,India,,20.593684,78.96288,190609,91852,5408
+Jun,India,,20.593684,78.96288,585481,347912,17400
+Jul,,India,,20.593684,78.96288,1385635,885573,32060
+Jan,Indonesia,,-0.7893,113.9213,0,0,0
+Feb,Indonesia,,-0.7893,113.9213,0,0,0
+Mar,Indonesia,,-0.7893,113.9213,1528,81,136
+Apr,Indonesia,,-0.7893,113.9213,10118,1522,792
+May,Indonesia,,-0.7893,113.9213,26473,7308,1613
+Jun,Indonesia,,-0.7893,113.9213,56385,24806,2876
+Jul,,Indonesia,,-0.7893,113.9213,97286,55354,4714
+Jan,Iran,,32.427908,53.688046,0,0,0
+Feb,Iran,,32.427908,53.688046,593,123,43
+Mar,Iran,,32.427908,53.688046,44605,14656,2898
+Apr,Iran,,32.427908,53.688046,94640,75103,6028
+May,Iran,,32.427908,53.688046,151466,118848,7797
+Jun,Iran,,32.427908,53.688046,227662,188758,10817
+Jul,,Iran,,32.427908,53.688046,288839,251319,15484
+Jan,Iraq,,33.223191,43.679291,0,0,0
+Feb,Iraq,,33.223191,43.679291,13,0,0
+Mar,Iraq,,33.223191,43.679291,694,170,50
+Apr,Iraq,,33.223191,43.679291,2085,1375,93
+May,Iraq,,33.223191,43.679291,6439,3156,205
+Jun,Iraq,,33.223191,43.679291,49109,24760,1943
+Jul,,Iraq,,33.223191,43.679291,107573,73317,4284
+Jan,Ireland,,53.1424,-7.6921,0,0,0
+Feb,Ireland,,53.1424,-7.6921,1,0,0
+Mar,Ireland,,53.1424,-7.6921,3235,5,71
+Apr,Ireland,,53.1424,-7.6921,20612,13386,1232
+May,Ireland,,53.1424,-7.6921,24990,22089,1652
+Jun,Ireland,,53.1424,-7.6921,25473,23364,1736
+Jul,,Ireland,,53.1424,-7.6921,25869,23364,1764
+Jan,Israel,,31.046051,34.851612,0,0,0
+Feb,Israel,,31.046051,34.851612,7,1,0
+Mar,Israel,,31.046051,34.851612,5358,224,20
+Apr,Israel,,31.046051,34.851612,15946,8561,222
+May,Israel,,31.046051,34.851612,17071,14812,285
+Jun,Israel,,31.046051,34.851612,25244,17341,320
+Jul,,Israel,,31.046051,34.851612,60678,26917,457
+Jan,Italy,,41.87194,12.56738,2,0,0
+Feb,Italy,,41.87194,12.56738,1128,46,29
+Mar,Italy,,41.87194,12.56738,105792,15729,12428
+Apr,Italy,,41.87194,12.56738,205463,75945,27967
+May,Italy,,41.87194,12.56738,232997,157507,33415
+Jun,Italy,,41.87194,12.56738,240578,190248,34767
+Jul,,Italy,,41.87194,12.56738,245864,198320,35102
+Jan,Jamaica,,18.1096,-77.2975,0,0,0
+Feb,Jamaica,,18.1096,-77.2975,0,0,0
+Mar,Jamaica,,18.1096,-77.2975,36,2,1
+Apr,Jamaica,,18.1096,-77.2975,422,29,8
+May,Jamaica,,18.1096,-77.2975,586,311,9
+Jun,Jamaica,,18.1096,-77.2975,702,553,10
+Jul,,Jamaica,,18.1096,-77.2975,837,711,10
+Jan,Japan,,36.204824,138.252924,15,1,0
+Feb,Japan,,36.204824,138.252924,245,32,6
+Mar,Japan,,36.204824,138.252924,2255,424,67
+Apr,Japan,,36.204824,138.252924,14284,2460,481
+May,Japan,,36.204824,138.252924,16751,14342,898
+Jun,Japan,,36.204824,138.252924,18615,16458,972
+Jul,,Japan,,36.204824,138.252924,29684,21464,996
+Jan,Jordan,,31.24,36.51,0,0,0
+Feb,Jordan,,31.24,36.51,0,0,0
+Mar,Jordan,,31.24,36.51,274,30,5
+Apr,Jordan,,31.24,36.51,453,362,8
+May,Jordan,,31.24,36.51,739,522,9
+Jun,Jordan,,31.24,36.51,1132,882,9
+Jul,,Jordan,,31.24,36.51,1154,1036,11
+Jan,Kazakhstan,,48.0196,66.9237,0,0,0
+Feb,Kazakhstan,,48.0196,66.9237,0,0,0
+Mar,Kazakhstan,,48.0196,66.9237,343,24,2
+Apr,Kazakhstan,,48.0196,66.9237,3402,866,25
+May,Kazakhstan,,48.0196,66.9237,10858,5404,40
+Jun,Kazakhstan,,48.0196,66.9237,22308,13558,188
+Jul,,Kazakhstan,,48.0196,66.9237,81720,51823,585
+Jan,Kenya,,-0.0236,37.9062,0,0,0
+Feb,Kenya,,-0.0236,37.9062,0,0,0
+Mar,Kenya,,-0.0236,37.9062,59,1,1
+Apr,Kenya,,-0.0236,37.9062,396,144,17
+May,Kenya,,-0.0236,37.9062,1962,478,64
+Jun,Kenya,,-0.0236,37.9062,6366,2039,148
+Jul,,Kenya,,-0.0236,37.9062,16643,7574,278
+Jan,Korea, South,,35.907757,127.766922,11,0,0
+Feb,Korea, South,,35.907757,127.766922,3150,27,16
+Mar,Korea, South,,35.907757,127.766922,9786,5408,162
+Apr,Korea, South,,35.907757,127.766922,10774,9072,248
+May,Korea, South,,35.907757,127.766922,11503,10422,271
+Jun,Korea, South,,35.907757,127.766922,12850,11613,282
+Jul,,Korea, South,,35.907757,127.766922,14150,12890,298
+Jan,Kosovo,,42.602636,20.902977,0,0,0
+Feb,Kosovo,,42.602636,20.902977,0,0,0
+Mar,Kosovo,,42.602636,20.902977,112,6,1
+Apr,Kosovo,,42.602636,20.902977,806,271,22
+May,Kosovo,,42.602636,20.902977,1064,829,30
+Jun,Kosovo,,42.602636,20.902977,2878,1577,51
+Jul,,Kosovo,,42.602636,20.902977,6917,3753,169
+Jan,Kuwait,,29.31166,47.481766,0,0,0
+Feb,Kuwait,,29.31166,47.481766,45,0,0
+Mar,Kuwait,,29.31166,47.481766,289,73,0
+Apr,Kuwait,,29.31166,47.481766,4024,1539,26
+May,Kuwait,,29.31166,47.481766,27043,11386,212
+Jun,Kuwait,,29.31166,47.481766,46195,37030,354
+Jul,,Kuwait,,29.31166,47.481766,63309,53607,429
+Jan,Kyrgyzstan,,41.20438,74.766098,0,0,0
+Feb,Kyrgyzstan,,41.20438,74.766098,0,0,0
+Mar,Kyrgyzstan,,41.20438,74.766098,107,3,0
+Apr,Kyrgyzstan,,41.20438,74.766098,746,462,8
+May,Kyrgyzstan,,41.20438,74.766098,1748,1170,16
+Jun,Kyrgyzstan,,41.20438,74.766098,5506,2443,61
+Jul,,Kyrgyzstan,,41.20438,74.766098,32124,19203,1249
+Jan,Laos,,19.85627,102.495496,0,0,0
+Feb,Laos,,19.85627,102.495496,0,0,0
+Mar,Laos,,19.85627,102.495496,9,0,0
+Apr,Laos,,19.85627,102.495496,19,8,0
+May,Laos,,19.85627,102.495496,19,16,0
+Jun,Laos,,19.85627,102.495496,19,19,0
+Jul,,Laos,,19.85627,102.495496,20,19,0
+Jan,Latvia,,56.8796,24.6032,0,0,0
+Feb,Latvia,,56.8796,24.6032,0,0,0
+Mar,Latvia,,56.8796,24.6032,398,1,0
+Apr,Latvia,,56.8796,24.6032,858,348,15
+May,Latvia,,56.8796,24.6032,1066,745,24
+Jun,Latvia,,56.8796,24.6032,1118,974,30
+Jul,,Latvia,,56.8796,24.6032,1206,1045,31
+Jan,Lebanon,,33.8547,35.8623,0,0,0
+Feb,Lebanon,,33.8547,35.8623,4,0,0
+Mar,Lebanon,,33.8547,35.8623,470,37,12
+Apr,Lebanon,,33.8547,35.8623,725,150,24
+May,Lebanon,,33.8547,35.8623,1220,712,27
+Jun,Lebanon,,33.8547,35.8623,1778,1183,34
+Jul,,Lebanon,,33.8547,35.8623,3582,1671,47
+Jan,Lesotho,,-29.61,28.2336,0,0,0
+Feb,Lesotho,,-29.61,28.2336,0,0,0
+Mar,Lesotho,,-29.61,28.2336,0,0,0
+Apr,Lesotho,,-29.61,28.2336,0,0,0
+May,Lesotho,,-29.61,28.2336,2,1,0
+Jun,Lesotho,,-29.61,28.2336,27,4,0
+Jul,,Lesotho,,-29.61,28.2336,419,69,9
+Jan,Liberia,,6.428055,-9.429499,0,0,0
+Feb,Liberia,,6.428055,-9.429499,0,0,0
+Mar,Liberia,,6.428055,-9.429499,3,0,0
+Apr,Liberia,,6.428055,-9.429499,141,45,16
+May,Liberia,,6.428055,-9.429499,288,157,27
+Jun,Liberia,,6.428055,-9.429499,780,324,36
+Jul,,Liberia,,6.428055,-9.429499,1155,631,71
+Jan,Libya,,26.3351,17.228331,0,0,0
+Feb,Libya,,26.3351,17.228331,0,0,0
+Mar,Libya,,26.3351,17.228331,10,1,0
+Apr,Libya,,26.3351,17.228331,61,18,3
+May,Libya,,26.3351,17.228331,156,52,5
+Jun,Libya,,26.3351,17.228331,824,209,24
+Jul,,Libya,,26.3351,17.228331,2547,510,58
+Jan,Liechtenstein,,47.14,9.55,0,0,0
+Feb,Liechtenstein,,47.14,9.55,0,0,0
+Mar,Liechtenstein,,47.14,9.55,68,44,0
+Apr,Liechtenstein,,47.14,9.55,82,80,1
+May,Liechtenstein,,47.14,9.55,82,81,1
+Jun,Liechtenstein,,47.14,9.55,82,81,1
+Jul,,Liechtenstein,,47.14,9.55,86,81,1
+Jan,Lithuania,,55.1694,23.8813,0,0,0
+Feb,Lithuania,,55.1694,23.8813,1,0,0
+Mar,Lithuania,,55.1694,23.8813,537,7,8
+Apr,Lithuania,,55.1694,23.8813,1385,589,45
+May,Lithuania,,55.1694,23.8813,1675,1236,70
+Jun,Lithuania,,55.1694,23.8813,1817,1515,78
+Jul,,Lithuania,,55.1694,23.8813,2001,1616,80
+Jan,Luxembourg,,49.8153,6.1296,0,0,0
+Feb,Luxembourg,,49.8153,6.1296,1,0,0
+Mar,Luxembourg,,49.8153,6.1296,2178,80,23
+Apr,Luxembourg,,49.8153,6.1296,3784,3213,90
+May,Luxembourg,,49.8153,6.1296,4018,3833,110
+Jun,Luxembourg,,49.8153,6.1296,4299,3998,110
+Jul,,Luxembourg,,49.8153,6.1296,6189,4647,112
+Jan,MS Zaandam,,0,0,0,0,0
+Feb,MS Zaandam,,0,0,0,0,0
+Mar,MS Zaandam,,0,0,2,0,0
+Apr,MS Zaandam,,0,0,9,0,2
+May,MS Zaandam,,0,0,9,0,2
+Jun,MS Zaandam,,0,0,9,0,2
+Jul,,MS Zaandam,,0,0,9,0,2
+Jan,Madagascar,,-18.766947,46.869107,0,0,0
+Feb,Madagascar,,-18.766947,46.869107,0,0,0
+Mar,Madagascar,,-18.766947,46.869107,57,0,0
+Apr,Madagascar,,-18.766947,46.869107,128,92,0
+May,Madagascar,,-18.766947,46.869107,771,168,6
+Jun,Madagascar,,-18.766947,46.869107,2214,994,20
+Jul,,Madagascar,,-18.766947,46.869107,8866,5579,78
+Jan,Malawi,,-13.2543,34.3015,0,0,0
+Feb,Malawi,,-13.2543,34.3015,0,0,0
+Mar,Malawi,,-13.2543,34.3015,0,0,0
+Apr,Malawi,,-13.2543,34.3015,37,7,3
+May,Malawi,,-13.2543,34.3015,284,42,4
+Jun,Malawi,,-13.2543,34.3015,1224,260,14
+Jul,,Malawi,,-13.2543,34.3015,3453,1373,87
+Jan,Malaysia,,4.210484,101.975766,8,0,0
+Feb,Malaysia,,4.210484,101.975766,25,18,0
+Mar,Malaysia,,4.210484,101.975766,2766,537,43
+Apr,Malaysia,,4.210484,101.975766,6002,4171,102
+May,Malaysia,,4.210484,101.975766,7819,6353,115
+Jun,Malaysia,,4.210484,101.975766,8639,8354,121
+Jul,,Malaysia,,4.210484,101.975766,8884,8594,123
+Jan,Maldives,,3.2028,73.2207,0,0,0
+Feb,Maldives,,3.2028,73.2207,0,0,0
+Mar,Maldives,,3.2028,73.2207,18,13,0
+Apr,Maldives,,3.2028,73.2207,468,17,1
+May,Maldives,,3.2028,73.2207,1773,453,5
+Jun,Maldives,,3.2028,73.2207,2361,1944,9
+Jul,,Maldives,,3.2028,73.2207,3252,2498,15
+Jan,Mali,,17.570692,-3.996166,0,0,0
+Feb,Mali,,17.570692,-3.996166,0,0,0
+Mar,Mali,,17.570692,-3.996166,28,0,2
+Apr,Mali,,17.570692,-3.996166,490,135,26
+May,Mali,,17.570692,-3.996166,1265,716,77
+Jun,Mali,,17.570692,-3.996166,2181,1474,116
+Jul,,Mali,,17.570692,-3.996166,2503,1907,123
+Jan,Malta,,35.9375,14.3754,0,0,0
+Feb,Malta,,35.9375,14.3754,0,0,0
+Mar,Malta,,35.9375,14.3754,169,2,0
+Apr,Malta,,35.9375,14.3754,465,351,4
+May,Malta,,35.9375,14.3754,618,534,9
+Jun,Malta,,35.9375,14.3754,670,640,9
+Jul,,Malta,,35.9375,14.3754,686,665,9
+Jan,Mauritania,,21.0079,-10.9408,0,0,0
+Feb,Mauritania,,21.0079,-10.9408,0,0,0
+Mar,Mauritania,,21.0079,-10.9408,6,2,1
+Apr,Mauritania,,21.0079,-10.9408,8,6,1
+May,Mauritania,,21.0079,-10.9408,530,27,23
+Jun,Mauritania,,21.0079,-10.9408,4363,1622,129
+Jul,,Mauritania,,21.0079,-10.9408,6151,4299,156
+Jan,Mauritius,,-20.348404,57.552152,0,0,0
+Feb,Mauritius,,-20.348404,57.552152,0,0,0
+Mar,Mauritius,,-20.348404,57.552152,143,0,5
+Apr,Mauritius,,-20.348404,57.552152,332,310,10
+May,Mauritius,,-20.348404,57.552152,335,322,10
+Jun,Mauritius,,-20.348404,57.552152,341,326,10
+Jul,,Mauritius,,-20.348404,57.552152,344,332,10
+Jan,Mexico,,23.6345,-102.5528,0,0,0
+Feb,Mexico,,23.6345,-102.5528,4,0,0
+Mar,Mexico,,23.6345,-102.5528,1215,35,29
+Apr,Mexico,,23.6345,-102.5528,19224,11423,1859
+May,Mexico,,23.6345,-102.5528,90664,63772,9930
+Jun,Mexico,,23.6345,-102.5528,226089,174538,27769
+Jul,,Mexico,,23.6345,-102.5528,385036,288819,42645
+Jan,Moldova,,47.4116,28.3699,0,0,0
+Feb,Moldova,,47.4116,28.3699,0,0,0
+Mar,Moldova,,47.4116,28.3699,353,18,4
+Apr,Moldova,,47.4116,28.3699,3897,1182,116
+May,Moldova,,47.4116,28.3699,8251,4581,295
+Jun,Moldova,,47.4116,28.3699,16613,9382,545
+Jul,,Moldova,,47.4116,28.3699,22828,15608,732
+Jan,Monaco,,43.7333,7.4167,0,0,0
+Feb,Monaco,,43.7333,7.4167,1,0,0
+Mar,Monaco,,43.7333,7.4167,52,2,1
+Apr,Monaco,,43.7333,7.4167,95,64,4
+May,Monaco,,43.7333,7.4167,99,90,4
+Jun,Monaco,,43.7333,7.4167,103,95,4
+Jul,,Monaco,,43.7333,7.4167,116,104,4
+Jan,Mongolia,,46.8625,103.8467,0,0,0
+Feb,Mongolia,,46.8625,103.8467,0,0,0
+Mar,Mongolia,,46.8625,103.8467,12,2,0
+Apr,Mongolia,,46.8625,103.8467,38,10,0
+May,Mongolia,,46.8625,103.8467,179,44,0
+Jun,Mongolia,,46.8625,103.8467,220,176,0
+Jul,,Mongolia,,46.8625,103.8467,288,218,0
+Jan,Montenegro,,42.708678,19.37439,0,0,0
+Feb,Montenegro,,42.708678,19.37439,0,0,0
+Mar,Montenegro,,42.708678,19.37439,109,0,2
+Apr,Montenegro,,42.708678,19.37439,322,214,7
+May,Montenegro,,42.708678,19.37439,324,315,9
+Jun,Montenegro,,42.708678,19.37439,548,315,12
+Jul,,Montenegro,,42.708678,19.37439,2747,664,43
+Jan,Morocco,,31.7917,-7.0926,0,0,0
+Feb,Morocco,,31.7917,-7.0926,0,0,0
+Mar,Morocco,,31.7917,-7.0926,617,24,36
+Apr,Morocco,,31.7917,-7.0926,4423,984,170
+May,Morocco,,31.7917,-7.0926,7807,5459,205
+Jun,Morocco,,31.7917,-7.0926,12533,8920,228
+Jul,,Morocco,,31.7917,-7.0926,19645,16282,305
+Jan,Mozambique,,-18.665695,35.529562,0,0,0
+Feb,Mozambique,,-18.665695,35.529562,0,0,0
+Mar,Mozambique,,-18.665695,35.529562,8,0,0
+Apr,Mozambique,,-18.665695,35.529562,76,12,0
+May,Mozambique,,-18.665695,35.529562,254,91,2
+Jun,Mozambique,,-18.665695,35.529562,889,232,6
+Jul,,Mozambique,,-18.665695,35.529562,1616,543,11
+Jan,Namibia,,-22.9576,18.4904,0,0,0
+Feb,Namibia,,-22.9576,18.4904,0,0,0
+Mar,Namibia,,-22.9576,18.4904,11,2,0
+Apr,Namibia,,-22.9576,18.4904,16,8,0
+May,Namibia,,-22.9576,18.4904,24,14,0
+Jun,Namibia,,-22.9576,18.4904,205,24,0
+Jul,,Namibia,,-22.9576,18.4904,1687,72,7
+Jan,Nepal,,28.1667,84.25,1,0,0
+Feb,Nepal,,28.1667,84.25,1,1,0
+Mar,Nepal,,28.1667,84.25,5,1,0
+Apr,Nepal,,28.1667,84.25,57,16,0
+May,Nepal,,28.1667,84.25,1572,220,8
+Jun,Nepal,,28.1667,84.25,13564,3194,29
+Jul,,Nepal,,28.1667,84.25,18483,13053,45
+Jan,Netherlands,,52.1326,5.2913,0,0,0
+Feb,Netherlands,,52.1326,5.2913,6,0,0
+Mar,Netherlands,,52.1326,5.2913,12595,0,1039
+Apr,Netherlands,,52.1326,5.2913,39316,0,4795
+May,Netherlands,,52.1326,5.2913,46442,0,5956
+Jun,Netherlands,,52.1326,5.2913,50273,0,6113
+Jul,,Netherlands,,52.1326,5.2913,52732,0,6140
+Jan,Netherlands,Aruba,12.5211,-69.9683,0,0,0
+Feb,Netherlands,Aruba,12.5211,-69.9683,0,0,0
+Mar,Netherlands,Aruba,12.5211,-69.9683,55,1,0
+Apr,Netherlands,Aruba,12.5211,-69.9683,100,79,2
+May,Netherlands,Aruba,12.5211,-69.9683,101,98,3
+Jun,Netherlands,Aruba,12.5211,-69.9683,103,98,3
+Jul,,Netherlands,Aruba,12.5211,-69.9683,119,102,3
+Jan,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
+Feb,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
+Mar,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,0,0,0
+Apr,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,5,0,0
+May,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,6,6,0
+Jun,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,7,7,0
+Jul,,Netherlands,Bonaire, Sint Eustatius and Saba,12.1784,-68.2385,11,7,0
+Jan,Netherlands,Curacao,12.1696,-68.99,0,0,0
+Feb,Netherlands,Curacao,12.1696,-68.99,0,0,0
+Mar,Netherlands,Curacao,12.1696,-68.99,11,2,1
+Apr,Netherlands,Curacao,12.1696,-68.99,16,13,1
+May,Netherlands,Curacao,12.1696,-68.99,19,14,1
+Jun,Netherlands,Curacao,12.1696,-68.99,23,19,1
+Jul,,Netherlands,Curacao,12.1696,-68.99,29,24,1
+Jan,Netherlands,Sint Maarten,18.0425,-63.0548,0,0,0
+Feb,Netherlands,Sint Maarten,18.0425,-63.0548,0,0,0
+Mar,Netherlands,Sint Maarten,18.0425,-63.0548,6,0,0
+Apr,Netherlands,Sint Maarten,18.0425,-63.0548,75,33,13
+May,Netherlands,Sint Maarten,18.0425,-63.0548,77,60,15
+Jun,Netherlands,Sint Maarten,18.0425,-63.0548,77,62,15
+Jul,,Netherlands,Sint Maarten,18.0425,-63.0548,93,63,15
+Jan,New Zealand,,-40.9006,174.886,0,0,0
+Feb,New Zealand,,-40.9006,174.886,1,0,0
+Mar,New Zealand,,-40.9006,174.886,647,74,1
+Apr,New Zealand,,-40.9006,174.886,1479,1252,19
+May,New Zealand,,-40.9006,174.886,1504,1481,22
+Jun,New Zealand,,-40.9006,174.886,1528,1484,22
+Jul,,New Zealand,,-40.9006,174.886,1556,1513,22
+Jan,Nicaragua,,12.865416,-85.207229,0,0,0
+Feb,Nicaragua,,12.865416,-85.207229,0,0,0
+Mar,Nicaragua,,12.865416,-85.207229,5,0,1
+Apr,Nicaragua,,12.865416,-85.207229,14,7,3
+May,Nicaragua,,12.865416,-85.207229,759,370,35
+Jun,Nicaragua,,12.865416,-85.207229,2519,1238,83
+Jul,,Nicaragua,,12.865416,-85.207229,3439,2492,108
+Jan,Niger,,17.607789,8.081666,0,0,0
+Feb,Niger,,17.607789,8.081666,0,0,0
+Mar,Niger,,17.607789,8.081666,27,0,3
+Apr,Niger,,17.607789,8.081666,719,452,32
+May,Niger,,17.607789,8.081666,958,839,64
+Jun,Niger,,17.607789,8.081666,1075,943,67
+Jul,,Niger,,17.607789,8.081666,1124,1025,69
+Jan,Nigeria,,9.082,8.6753,0,0,0
+Feb,Nigeria,,9.082,8.6753,1,0,0
+Mar,Nigeria,,9.082,8.6753,135,8,2
+Apr,Nigeria,,9.082,8.6753,1932,319,58
+May,Nigeria,,9.082,8.6753,10162,3007,287
+Jun,Nigeria,,9.082,8.6753,25694,9746,590
+Jul,,Nigeria,,9.082,8.6753,39977,16948,856
+Jan,North Macedonia,,41.6086,21.7453,0,0,0
+Feb,North Macedonia,,41.6086,21.7453,1,0,0
+Mar,North Macedonia,,41.6086,21.7453,329,12,9
+Apr,North Macedonia,,41.6086,21.7453,1465,738,77
+May,North Macedonia,,41.6086,21.7453,2226,1552,133
+Jun,North Macedonia,,41.6086,21.7453,6334,2475,302
+Jul,,North Macedonia,,41.6086,21.7453,9934,5357,460
+Jan,Norway,,60.472,8.4689,0,0,0
+Feb,Norway,,60.472,8.4689,15,0,0
+Mar,Norway,,60.472,8.4689,4641,13,39
+Apr,Norway,,60.472,8.4689,7738,32,210
+May,Norway,,60.472,8.4689,8440,7727,236
+Jun,Norway,,60.472,8.4689,8879,8138,250
+Jul,,Norway,,60.472,8.4689,9111,8674,255
+Jan,Oman,,21.512583,55.923255,0,0,0
+Feb,Oman,,21.512583,55.923255,6,1,0
+Mar,Oman,,21.512583,55.923255,192,34,1
+Apr,Oman,,21.512583,55.923255,2348,495,11
+May,Oman,,21.512583,55.923255,11437,2682,49
+Jun,Oman,,21.512583,55.923255,40070,23425,176
+Jul,,Oman,,21.512583,55.923255,74858,54061,371
+Jan,Pakistan,,30.3753,69.3451,0,0,0
+Feb,Pakistan,,30.3753,69.3451,4,0,0
+Mar,Pakistan,,30.3753,69.3451,2118,94,27
+Apr,Pakistan,,30.3753,69.3451,18114,4715,417
+May,Pakistan,,30.3753,69.3451,72460,26083,1543
+Jun,Pakistan,,30.3753,69.3451,213470,100802,4395
+Jul,,Pakistan,,30.3753,69.3451,273113,237434,5822
+Jan,Panama,,8.538,-80.7821,0,0,0
+Feb,Panama,,8.538,-80.7821,0,0,0
+Mar,Panama,,8.538,-80.7821,1181,9,30
+Apr,Panama,,8.538,-80.7821,6532,576,188
+May,Panama,,8.538,-80.7821,13463,9514,336
+Jun,Panama,,8.538,-80.7821,33550,15745,631
+Jul,,Panama,,8.538,-80.7821,58864,33428,1275
+Jan,Papua New Guinea,,-6.314993,143.95555,0,0,0
+Feb,Papua New Guinea,,-6.314993,143.95555,0,0,0
+Mar,Papua New Guinea,,-6.314993,143.95555,1,0,0
+Apr,Papua New Guinea,,-6.314993,143.95555,8,0,0
+May,Papua New Guinea,,-6.314993,143.95555,8,8,0
+Jun,Papua New Guinea,,-6.314993,143.95555,11,8,0
+Jul,,Papua New Guinea,,-6.314993,143.95555,39,11,0
+Jan,Paraguay,,-23.4425,-58.4438,0,0,0
+Feb,Paraguay,,-23.4425,-58.4438,0,0,0
+Mar,Paraguay,,-23.4425,-58.4438,65,1,3
+Apr,Paraguay,,-23.4425,-58.4438,266,113,10
+May,Paraguay,,-23.4425,-58.4438,986,477,11
+Jun,Paraguay,,-23.4425,-58.4438,2221,1089,17
+Jul,,Paraguay,,-23.4425,-58.4438,4328,2679,40
+Jan,Peru,,-9.19,-75.0152,0,0,0
+Feb,Peru,,-9.19,-75.0152,0,0,0
+Mar,Peru,,-9.19,-75.0152,1065,394,30
+Apr,Peru,,-9.19,-75.0152,36976,10405,1051
+May,Peru,,-9.19,-75.0152,164476,67208,4506
+Jun,Peru,,-9.19,-75.0152,285213,174535,9677
+Jul,,Peru,,-9.19,-75.0152,375961,259423,17843
+Jan,Philippines,,12.879721,121.774017,1,0,0
+Feb,Philippines,,12.879721,121.774017,3,1,1
+Mar,Philippines,,12.879721,121.774017,2084,49,88
+Apr,Philippines,,12.879721,121.774017,8488,1043,568
+May,Philippines,,12.879721,121.774017,18086,3909,957
+Jun,Philippines,,12.879721,121.774017,37514,10233,1266
+Jul,,Philippines,,12.879721,121.774017,78412,25752,1897
+Jan,Poland,,51.9194,19.1451,0,0,0
+Feb,Poland,,51.9194,19.1451,0,0,0
+Mar,Poland,,51.9194,19.1451,2311,7,33
+Apr,Poland,,51.9194,19.1451,12877,3236,644
+May,Poland,,51.9194,19.1451,23786,11271,1064
+Jun,Poland,,51.9194,19.1451,34393,21281,1463
+Jul,,Poland,,51.9194,19.1451,42622,32419,1664
+Jan,Portugal,,39.3999,-8.2245,0,0,0
+Feb,Portugal,,39.3999,-8.2245,0,0,0
+Mar,Portugal,,39.3999,-8.2245,7443,43,160
+Apr,Portugal,,39.3999,-8.2245,25045,1519,989
+May,Portugal,,39.3999,-8.2245,32500,19409,1410
+Jun,Portugal,,39.3999,-8.2245,42141,27505,1576
+Jul,,Portugal,,39.3999,-8.2245,49955,35010,1716
+Jan,Qatar,,25.3548,51.1839,0,0,0
+Feb,Qatar,,25.3548,51.1839,1,0,0
+Mar,Qatar,,25.3548,51.1839,781,62,2
+Apr,Qatar,,25.3548,51.1839,13409,1372,10
+May,Qatar,,25.3548,51.1839,56910,30290,38
+Jun,Qatar,,25.3548,51.1839,96088,81564,113
+Jul,,Qatar,,25.3548,51.1839,109036,105750,164
+Jan,Romania,,45.9432,24.9668,0,0,0
+Feb,Romania,,45.9432,24.9668,3,0,0
+Mar,Romania,,45.9432,24.9668,2245,220,82
+Apr,Romania,,45.9432,24.9668,12240,4017,717
+May,Romania,,45.9432,24.9668,19257,13256,1266
+Jun,Romania,,45.9432,24.9668,26970,19050,1651
+Jul,,Romania,,45.9432,24.9668,43678,25373,2165
+Jan,Russia,,61.52401,105.318756,2,0,0
+Feb,Russia,,61.52401,105.318756,2,2,0
+Mar,Russia,,61.52401,105.318756,2337,121,17
+Apr,Russia,,61.52401,105.318756,106498,11619,1073
+May,Russia,,61.52401,105.318756,405843,171883,4693
+Jun,Russia,,61.52401,105.318756,646929,411973,9306
+Jul,,Russia,,61.52401,105.318756,805332,596064,13172
+Jan,Rwanda,,-1.9403,29.8739,0,0,0
+Feb,Rwanda,,-1.9403,29.8739,0,0,0
+Mar,Rwanda,,-1.9403,29.8739,75,0,0
+Apr,Rwanda,,-1.9403,29.8739,243,104,0
+May,Rwanda,,-1.9403,29.8739,370,256,1
+Jun,Rwanda,,-1.9403,29.8739,1025,447,2
+Jul,,Rwanda,,-1.9403,29.8739,1752,907,5
+Jan,Saint Kitts and Nevis,,17.357822,-62.782998,0,0,0
+Feb,Saint Kitts and Nevis,,17.357822,-62.782998,0,0,0
+Mar,Saint Kitts and Nevis,,17.357822,-62.782998,8,0,0
+Apr,Saint Kitts and Nevis,,17.357822,-62.782998,15,6,0
+May,Saint Kitts and Nevis,,17.357822,-62.782998,15,15,0
+Jun,Saint Kitts and Nevis,,17.357822,-62.782998,15,15,0
+Jul,,Saint Kitts and Nevis,,17.357822,-62.782998,17,15,0
+Jan,Saint Lucia,,13.9094,-60.9789,0,0,0
+Feb,Saint Lucia,,13.9094,-60.9789,0,0,0
+Mar,Saint Lucia,,13.9094,-60.9789,13,1,0
+Apr,Saint Lucia,,13.9094,-60.9789,17,15,0
+May,Saint Lucia,,13.9094,-60.9789,18,18,0
+Jun,Saint Lucia,,13.9094,-60.9789,19,19,0
+Jul,,Saint Lucia,,13.9094,-60.9789,24,22,0
+Jan,Saint Vincent and the Grenadines,,12.9843,-61.2872,0,0,0
+Feb,Saint Vincent and the Grenadines,,12.9843,-61.2872,0,0,0
+Mar,Saint Vincent and the Grenadines,,12.9843,-61.2872,1,1,0
+Apr,Saint Vincent and the Grenadines,,12.9843,-61.2872,16,8,0
+May,Saint Vincent and the Grenadines,,12.9843,-61.2872,26,15,0
+Jun,Saint Vincent and the Grenadines,,12.9843,-61.2872,29,29,0
+Jul,,Saint Vincent and the Grenadines,,12.9843,-61.2872,52,39,0
+Jan,San Marino,,43.9424,12.4578,0,0,0
+Feb,San Marino,,43.9424,12.4578,1,0,0
+Mar,San Marino,,43.9424,12.4578,236,13,26
+Apr,San Marino,,43.9424,12.4578,569,78,41
+May,San Marino,,43.9424,12.4578,671,357,42
+Jun,San Marino,,43.9424,12.4578,698,656,42
+Jul,,San Marino,,43.9424,12.4578,699,657,42
+Jan,Sao Tome and Principe,,0.1864,6.6131,0,0,0
+Feb,Sao Tome and Principe,,0.1864,6.6131,0,0,0
+Mar,Sao Tome and Principe,,0.1864,6.6131,0,0,0
+Apr,Sao Tome and Principe,,0.1864,6.6131,14,4,0
+May,Sao Tome and Principe,,0.1864,6.6131,483,68,12
+Jun,Sao Tome and Principe,,0.1864,6.6131,714,236,13
+Jul,,Sao Tome and Principe,,0.1864,6.6131,862,662,14
+Jan,Saudi Arabia,,23.885942,45.079162,0,0,0
+Feb,Saudi Arabia,,23.885942,45.079162,0,0,0
+Mar,Saudi Arabia,,23.885942,45.079162,1563,165,10
+Apr,Saudi Arabia,,23.885942,45.079162,22753,3163,162
+May,Saudi Arabia,,23.885942,45.079162,85261,62442,503
+Jun,Saudi Arabia,,23.885942,45.079162,190823,130766,1649
+Jul,,Saudi Arabia,,23.885942,45.079162,264973,217782,2703
+Jan,Senegal,,14.4974,-14.4524,0,0,0
+Feb,Senegal,,14.4974,-14.4524,0,0,0
+Mar,Senegal,,14.4974,-14.4524,175,40,0
+Apr,Senegal,,14.4974,-14.4524,933,334,9
+May,Senegal,,14.4974,-14.4524,3645,1801,42
+Jun,Senegal,,14.4974,-14.4524,6793,4431,112
+Jul,,Senegal,,14.4974,-14.4524,9552,6364,187
+Jan,Serbia,,44.0165,21.0059,0,0,0
+Feb,Serbia,,44.0165,21.0059,0,0,0
+Mar,Serbia,,44.0165,21.0059,900,0,16
+Apr,Serbia,,44.0165,21.0059,9009,1343,179
+May,Serbia,,44.0165,21.0059,11412,6698,243
+Jun,Serbia,,44.0165,21.0059,14564,12662,277
+Jul,,Serbia,,44.0165,21.0059,22852,0,518
+Jan,Seychelles,,-4.6796,55.492,0,0,0
+Feb,Seychelles,,-4.6796,55.492,0,0,0
+Mar,Seychelles,,-4.6796,55.492,10,0,0
+Apr,Seychelles,,-4.6796,55.492,11,6,0
+May,Seychelles,,-4.6796,55.492,11,11,0
+Jun,Seychelles,,-4.6796,55.492,81,11,0
+Jul,,Seychelles,,-4.6796,55.492,114,39,0
+Jan,Sierra Leone,,8.460555,-11.779889,0,0,0
+Feb,Sierra Leone,,8.460555,-11.779889,0,0,0
+Mar,Sierra Leone,,8.460555,-11.779889,1,0,0
+Apr,Sierra Leone,,8.460555,-11.779889,124,21,7
+May,Sierra Leone,,8.460555,-11.779889,861,454,46
+Jun,Sierra Leone,,8.460555,-11.779889,1462,974,60
+Jul,,Sierra Leone,,8.460555,-11.779889,1768,1297,66
+Jan,Singapore,,1.2833,103.8333,13,0,0
+Feb,Singapore,,1.2833,103.8333,102,72,0
+Mar,Singapore,,1.2833,103.8333,926,240,3
+Apr,Singapore,,1.2833,103.8333,16169,1244,15
+May,Singapore,,1.2833,103.8333,34884,21699,23
+Jun,Singapore,,1.2833,103.8333,43907,38500,26
+Jul,,Singapore,,1.2833,103.8333,49888,45352,27
+Jan,Slovakia,,48.669,19.699,0,0,0
+Feb,Slovakia,,48.669,19.699,0,0,0
+Mar,Slovakia,,48.669,19.699,363,3,0
+Apr,Slovakia,,48.669,19.699,1396,524,23
+May,Slovakia,,48.669,19.699,1521,1366,28
+Jun,Slovakia,,48.669,19.699,1667,1464,28
+Jul,,Slovakia,,48.669,19.699,2141,1577,28
+Jan,Slovenia,,46.1512,14.9955,0,0,0
+Feb,Slovenia,,46.1512,14.9955,0,0,0
+Mar,Slovenia,,46.1512,14.9955,802,10,15
+Apr,Slovenia,,46.1512,14.9955,1429,233,91
+May,Slovenia,,46.1512,14.9955,1473,1358,108
+Jun,Slovenia,,46.1512,14.9955,1600,1384,111
+Jul,,Slovenia,,46.1512,14.9955,2066,1678,116
+Jan,Somalia,,5.152149,46.199616,0,0,0
+Feb,Somalia,,5.152149,46.199616,0,0,0
+Mar,Somalia,,5.152149,46.199616,5,1,0
+Apr,Somalia,,5.152149,46.199616,601,31,28
+May,Somalia,,5.152149,46.199616,1976,348,78
+Jun,Somalia,,5.152149,46.199616,2924,910,90
+Jul,,Somalia,,5.152149,46.199616,3178,1521,93
+Jan,South Africa,,-30.5595,22.9375,0,0,0
+Feb,South Africa,,-30.5595,22.9375,0,0,0
+Mar,South Africa,,-30.5595,22.9375,1353,31,5
+Apr,South Africa,,-30.5595,22.9375,5647,2073,103
+May,South Africa,,-30.5595,22.9375,32683,16809,683
+Jun,South Africa,,-30.5595,22.9375,151209,73543,2657
+Jul,,South Africa,,-30.5595,22.9375,434200,263054,6655
+Jan,South Sudan,,6.877,31.307,0,0,0
+Feb,South Sudan,,6.877,31.307,0,0,0
+Mar,South Sudan,,6.877,31.307,0,0,0
+Apr,South Sudan,,6.877,31.307,35,0,0
+May,South Sudan,,6.877,31.307,994,6,10
+Jun,South Sudan,,6.877,31.307,2007,279,38
+Jul,,South Sudan,,6.877,31.307,2258,1175,45
+Jan,Spain,,40.463667,-3.74922,0,0,0
+Feb,Spain,,40.463667,-3.74922,45,2,0
+Mar,Spain,,40.463667,-3.74922,95923,19259,8464
+Apr,Spain,,40.463667,-3.74922,213435,112050,24543
+May,Spain,,40.463667,-3.74922,239479,150376,27127
+Jun,Spain,,40.463667,-3.74922,249271,150376,28355
+Jul,,Spain,,40.463667,-3.74922,272421,150376,28432
+Jan,Sri Lanka,,7.873054,80.771797,1,0,0
+Feb,Sri Lanka,,7.873054,80.771797,1,1,0
+Mar,Sri Lanka,,7.873054,80.771797,143,17,2
+Apr,Sri Lanka,,7.873054,80.771797,663,154,7
+May,Sri Lanka,,7.873054,80.771797,1633,801,10
+Jun,Sri Lanka,,7.873054,80.771797,2047,1711,11
+Jul,,Sri Lanka,,7.873054,80.771797,2770,2103,11
+Jan,Sudan,,12.8628,30.2176,0,0,0
+Feb,Sudan,,12.8628,30.2176,0,0,0
+Mar,Sudan,,12.8628,30.2176,7,1,2
+Apr,Sudan,,12.8628,30.2176,442,39,31
+May,Sudan,,12.8628,30.2176,5026,1423,286
+Jun,Sudan,,12.8628,30.2176,9257,4014,572
+Jul,,Sudan,,12.8628,30.2176,11385,5890,717
+Jan,Suriname,,3.9193,-56.0278,0,0,0
+Feb,Suriname,,3.9193,-56.0278,0,0,0
+Mar,Suriname,,3.9193,-56.0278,9,0,0
+Apr,Suriname,,3.9193,-56.0278,10,8,1
+May,Suriname,,3.9193,-56.0278,23,9,1
+Jun,Suriname,,3.9193,-56.0278,515,227,13
+Jul,,Suriname,,3.9193,-56.0278,1381,853,23
+Jan,Sweden,,60.128161,18.643501,1,0,0
+Feb,Sweden,,60.128161,18.643501,12,0,0
+Mar,Sweden,,60.128161,18.643501,4435,0,180
+Apr,Sweden,,60.128161,18.643501,21092,0,2586
+May,Sweden,,60.128161,18.643501,37542,0,4395
+Jun,Sweden,,60.128161,18.643501,68451,0,5333
+Jul,,Sweden,,60.128161,18.643501,78997,0,5697
+Jan,Switzerland,,46.8182,8.2275,0,0,0
+Feb,Switzerland,,46.8182,8.2275,18,0,0
+Mar,Switzerland,,46.8182,8.2275,16605,1823,433
+Apr,Switzerland,,46.8182,8.2275,29586,23400,1737
+May,Switzerland,,46.8182,8.2275,30862,28500,1920
+Jun,Switzerland,,46.8182,8.2275,31714,29200,1963
+Jul,,Switzerland,,46.8182,8.2275,34302,30500,1977
+Jan,Syria,,34.802075,38.996815,0,0,0
+Feb,Syria,,34.802075,38.996815,0,0,0
+Mar,Syria,,34.802075,38.996815,10,0,2
+Apr,Syria,,34.802075,38.996815,43,21,3
+May,Syria,,34.802075,38.996815,122,46,5
+Jun,Syria,,34.802075,38.996815,279,105,9
+Jul,,Syria,,34.802075,38.996815,627,191,36
+Jan,Taiwan*,,23.7,121,10,0,0
+Feb,Taiwan*,,23.7,121,39,9,1
+Mar,Taiwan*,,23.7,121,322,39,5
+Apr,Taiwan*,,23.7,121,429,322,6
+May,Taiwan*,,23.7,121,442,423,7
+Jun,Taiwan*,,23.7,121,447,437,7
+Jul,,Taiwan*,,23.7,121,458,440,7
+Jan,Tajikistan,,38.861,71.2761,0,0,0
+Feb,Tajikistan,,38.861,71.2761,0,0,0
+Mar,Tajikistan,,38.861,71.2761,0,0,0
+Apr,Tajikistan,,38.861,71.2761,15,0,0
+May,Tajikistan,,38.861,71.2761,3930,2004,47
+Jun,Tajikistan,,38.861,71.2761,5900,4506,52
+Jul,,Tajikistan,,38.861,71.2761,7150,5906,59
+Jan,Tanzania,,-6.369028,34.888822,0,0,0
+Feb,Tanzania,,-6.369028,34.888822,0,0,0
+Mar,Tanzania,,-6.369028,34.888822,19,1,1
+Apr,Tanzania,,-6.369028,34.888822,480,167,16
+May,Tanzania,,-6.369028,34.888822,509,183,21
+Jun,Tanzania,,-6.369028,34.888822,509,183,21
+Jul,,Tanzania,,-6.369028,34.888822,509,183,21
+Jan,Thailand,,15.870032,100.992541,19,5,0
+Feb,Thailand,,15.870032,100.992541,42,28,0
+Mar,Thailand,,15.870032,100.992541,1651,342,10
+Apr,Thailand,,15.870032,100.992541,2954,2684,54
+May,Thailand,,15.870032,100.992541,3081,2963,57
+Jun,Thailand,,15.870032,100.992541,3171,3056,58
+Jul,,Thailand,,15.870032,100.992541,3282,3109,58
+Jan,Timor-Leste,,-8.874217,125.727539,0,0,0
+Feb,Timor-Leste,,-8.874217,125.727539,0,0,0
+Mar,Timor-Leste,,-8.874217,125.727539,1,0,0
+Apr,Timor-Leste,,-8.874217,125.727539,24,16,0
+May,Timor-Leste,,-8.874217,125.727539,24,24,0
+Jun,Timor-Leste,,-8.874217,125.727539,24,24,0
+Jul,,Timor-Leste,,-8.874217,125.727539,24,24,0
+Jan,Togo,,8.6195,0.8248,0,0,0
+Feb,Togo,,8.6195,0.8248,0,0,0
+Mar,Togo,,8.6195,0.8248,34,10,1
+Apr,Togo,,8.6195,0.8248,116,65,9
+May,Togo,,8.6195,0.8248,442,211,13
+Jun,Togo,,8.6195,0.8248,650,402,14
+Jul,,Togo,,8.6195,0.8248,853,587,17
+Jan,Trinidad and Tobago,,10.6918,-61.2225,0,0,0
+Feb,Trinidad and Tobago,,10.6918,-61.2225,0,0,0
+Mar,Trinidad and Tobago,,10.6918,-61.2225,87,1,3
+Apr,Trinidad and Tobago,,10.6918,-61.2225,116,72,8
+May,Trinidad and Tobago,,10.6918,-61.2225,117,108,8
+Jun,Trinidad and Tobago,,10.6918,-61.2225,130,113,8
+Jul,,Trinidad and Tobago,,10.6918,-61.2225,147,128,8
+Jan,Tunisia,,33.886917,9.537499,0,0,0
+Feb,Tunisia,,33.886917,9.537499,0,0,0
+Mar,Tunisia,,33.886917,9.537499,394,3,10
+Apr,Tunisia,,33.886917,9.537499,994,305,41
+May,Tunisia,,33.886917,9.537499,1077,960,48
+Jun,Tunisia,,33.886917,9.537499,1174,1031,50
+Jul,,Tunisia,,33.886917,9.537499,1443,1133,50
+Jan,Turkey,,38.9637,35.2433,0,0,0
+Feb,Turkey,,38.9637,35.2433,0,0,0
+Mar,Turkey,,38.9637,35.2433,13531,243,214
+Apr,Turkey,,38.9637,35.2433,120204,48886,3174
+May,Turkey,,38.9637,35.2433,163942,127973,4540
+Jun,Turkey,,38.9637,35.2433,199906,173111,5131
+Jul,,Turkey,,38.9637,35.2433,225173,208477,5596
+Jan,United States,,40,-100,7,0,0
+Feb,United States,,40,-100,24,7,1
+Mar,United States,,40,-100,188724,7024,5605
+Apr,United States,,40,-100,1072667,153947,64256
+May,United States,,40,-100,1799124,444758,105364
+Jun,United States,,40,-100,2636414,720631,127432
+Jul,,United States,,40,-100,4178021,1279414,146460
+Jan,Uganda,,1.373333,32.290275,0,0,0
+Feb,Uganda,,1.373333,32.290275,0,0,0
+Mar,Uganda,,1.373333,32.290275,44,0,0
+Apr,Uganda,,1.373333,32.290275,83,52,0
+May,Uganda,,1.373333,32.290275,417,72,0
+Jun,Uganda,,1.373333,32.290275,889,819,0
+Jul,,Uganda,,1.373333,32.290275,1103,982,1
+Jan,Ukraine,,48.3794,31.1656,0,0,0
+Feb,Ukraine,,48.3794,31.1656,0,0,0
+Mar,Ukraine,,48.3794,31.1656,645,10,17
+Apr,Ukraine,,48.3794,31.1656,10406,1238,261
+May,Ukraine,,48.3794,31.1656,23672,9538,708
+Jun,Ukraine,,48.3794,31.1656,45254,19792,1173
+Jul,,Ukraine,,48.3794,31.1656,65317,36573,1610
+Jan,United Arab Emirates,,23.424076,53.847818,4,0,0
+Feb,United Arab Emirates,,23.424076,53.847818,21,5,0
+Mar,United Arab Emirates,,23.424076,53.847818,664,61,6
+Apr,United Arab Emirates,,23.424076,53.847818,12481,2429,105
+May,United Arab Emirates,,23.424076,53.847818,34557,17932,264
+Jun,United Arab Emirates,,23.424076,53.847818,48667,37566,315
+Jul,,United Arab Emirates,,23.424076,53.847818,58562,51628,343
+Jan,United Kingdom,,55.3781,-3.436,2,0,0
+Feb,United Kingdom,,55.3781,-3.436,61,8,0
+Mar,United Kingdom,,55.3781,-3.436,38484,135,2426
+Apr,United Kingdom,,55.3781,-3.436,177543,0,26788
+May,United Kingdom,,55.3781,-3.436,256145,0,39010
+Jun,United Kingdom,,55.3781,-3.436,283710,0,43730
+Jul,,United Kingdom,,55.3781,-3.436,298681,0,45738
+Jan,United Kingdom,Anguilla,18.2206,-63.0686,0,0,0
+Feb,United Kingdom,Anguilla,18.2206,-63.0686,0,0,0
+Mar,United Kingdom,Anguilla,18.2206,-63.0686,2,0,0
+Apr,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
+May,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
+Jun,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
+Jul,,United Kingdom,Anguilla,18.2206,-63.0686,3,3,0
+Jan,United Kingdom,Bermuda,32.3078,-64.7505,0,0,0
+Feb,United Kingdom,Bermuda,32.3078,-64.7505,0,0,0
+Mar,United Kingdom,Bermuda,32.3078,-64.7505,32,10,0
+Apr,United Kingdom,Bermuda,32.3078,-64.7505,114,48,6
+May,United Kingdom,Bermuda,32.3078,-64.7505,140,92,9
+Jun,United Kingdom,Bermuda,32.3078,-64.7505,146,135,9
+Jul,,United Kingdom,Bermuda,32.3078,-64.7505,153,139,9
+Jan,United Kingdom,British Virgin Islands,18.4207,-64.64,0,0,0
+Feb,United Kingdom,British Virgin Islands,18.4207,-64.64,0,0,0
+Mar,United Kingdom,British Virgin Islands,18.4207,-64.64,3,0,0
+Apr,United Kingdom,British Virgin Islands,18.4207,-64.64,6,3,1
+May,United Kingdom,British Virgin Islands,18.4207,-64.64,8,7,1
+Jun,United Kingdom,British Virgin Islands,18.4207,-64.64,8,7,1
+Jul,,United Kingdom,British Virgin Islands,18.4207,-64.64,8,7,1
+Jan,United Kingdom,Cayman Islands,19.3133,-81.2546,0,0,0
+Feb,United Kingdom,Cayman Islands,19.3133,-81.2546,0,0,0
+Mar,United Kingdom,Cayman Islands,19.3133,-81.2546,14,0,1
+Apr,United Kingdom,Cayman Islands,19.3133,-81.2546,73,10,1
+May,United Kingdom,Cayman Islands,19.3133,-81.2546,141,68,1
+Jun,United Kingdom,Cayman Islands,19.3133,-81.2546,200,191,1
+Jul,,United Kingdom,Cayman Islands,19.3133,-81.2546,203,202,1
+Jan,United Kingdom,Channel Islands,49.3723,-2.3644,0,0,0
+Feb,United Kingdom,Channel Islands,49.3723,-2.3644,0,0,0
+Mar,United Kingdom,Channel Islands,49.3723,-2.3644,141,0,3
+Apr,United Kingdom,Channel Islands,49.3723,-2.3644,537,386,40
+May,United Kingdom,Channel Islands,49.3723,-2.3644,560,528,45
+Jun,United Kingdom,Channel Islands,49.3723,-2.3644,571,512,47
+Jul,,United Kingdom,Channel Islands,49.3723,-2.3644,584,533,47
+Jan,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,0,0,0
+Feb,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,0,0,0
+Mar,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,0,0,0
+Apr,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,11,0
+May,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,13,0
+Jun,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,13,0
+Jul,,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236,13,13,0
+Jan,United Kingdom,Gibraltar,36.1408,-5.3536,0,0,0
+Feb,United Kingdom,Gibraltar,36.1408,-5.3536,0,0,0
+Mar,United Kingdom,Gibraltar,36.1408,-5.3536,69,34,0
+Apr,United Kingdom,Gibraltar,36.1408,-5.3536,144,131,0
+May,United Kingdom,Gibraltar,36.1408,-5.3536,170,149,0
+Jun,United Kingdom,Gibraltar,36.1408,-5.3536,177,176,0
+Jul,,United Kingdom,Gibraltar,36.1408,-5.3536,185,180,0
+Jan,United Kingdom,Isle of Man,54.2361,-4.5481,0,0,0
+Feb,United Kingdom,Isle of Man,54.2361,-4.5481,0,0,0
+Mar,United Kingdom,Isle of Man,54.2361,-4.5481,60,0,0
+Apr,United Kingdom,Isle of Man,54.2361,-4.5481,315,260,21
+May,United Kingdom,Isle of Man,54.2361,-4.5481,336,309,24
+Jun,United Kingdom,Isle of Man,54.2361,-4.5481,336,312,24
+Jul,,United Kingdom,Isle of Man,54.2361,-4.5481,336,312,24
+Jan,United Kingdom,Montserrat,16.742498,-62.187366,0,0,0
+Feb,United Kingdom,Montserrat,16.742498,-62.187366,0,0,0
+Mar,United Kingdom,Montserrat,16.742498,-62.187366,5,0,0
+Apr,United Kingdom,Montserrat,16.742498,-62.187366,11,2,1
+May,United Kingdom,Montserrat,16.742498,-62.187366,11,10,1
+Jun,United Kingdom,Montserrat,16.742498,-62.187366,11,10,1
+Jul,,United Kingdom,Montserrat,16.742498,-62.187366,12,10,1
+Jan,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,0,0,0
+Feb,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,0,0,0
+Mar,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,5,0,0
+Apr,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,12,5,1
+May,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,12,11,1
+Jun,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,41,11,2
+Jul,,United Kingdom,Turks and Caicos Islands,21.694,-71.7979,92,28,2
+Jan,Uruguay,,-32.5228,-55.7658,0,0,0
+Feb,Uruguay,,-32.5228,-55.7658,0,0,0
+Mar,Uruguay,,-32.5228,-55.7658,338,41,1
+Apr,Uruguay,,-32.5228,-55.7658,643,417,17
+May,Uruguay,,-32.5228,-55.7658,823,685,22
+Jun,Uruguay,,-32.5228,-55.7658,936,824,27
+Jul,,Uruguay,,-32.5228,-55.7658,1174,947,34
+Jan,Uzbekistan,,41.377491,64.585262,0,0,0
+Feb,Uzbekistan,,41.377491,64.585262,0,0,0
+Mar,Uzbekistan,,41.377491,64.585262,172,7,2
+Apr,Uzbekistan,,41.377491,64.585262,2039,1133,9
+May,Uzbekistan,,41.377491,64.585262,3623,2837,15
+Jun,Uzbekistan,,41.377491,64.585262,8503,5682,26
+Jul,,Uzbekistan,,41.377491,64.585262,19952,10831,111
+Jan,Venezuela,,6.4238,-66.5897,0,0,0
+Feb,Venezuela,,6.4238,-66.5897,0,0,0
+Mar,Venezuela,,6.4238,-66.5897,135,39,3
+Apr,Venezuela,,6.4238,-66.5897,333,142,16
+May,Venezuela,,6.4238,-66.5897,1510,302,14
+Jun,Venezuela,,6.4238,-66.5897,5832,1649,51
+Jul,,Venezuela,,6.4238,-66.5897,14929,8795,138
+Jan,Vietnam,,14.058324,108.277199,2,0,0
+Feb,Vietnam,,14.058324,108.277199,16,16,0
+Mar,Vietnam,,14.058324,108.277199,212,58,0
+Apr,Vietnam,,14.058324,108.277199,270,219,0
+May,Vietnam,,14.058324,108.277199,328,279,0
+Jun,Vietnam,,14.058324,108.277199,355,335,0
+Jul,,Vietnam,,14.058324,108.277199,417,365,0
+Jan,West Bank and Gaza,,31.9522,35.2332,0,0,0
+Feb,West Bank and Gaza,,31.9522,35.2332,0,0,0
+Mar,West Bank and Gaza,,31.9522,35.2332,119,18,1
+Apr,West Bank and Gaza,,31.9522,35.2332,344,76,2
+May,West Bank and Gaza,,31.9522,35.2332,448,372,3
+Jun,West Bank and Gaza,,31.9522,35.2332,2428,451,8
+Jul,,West Bank and Gaza,,31.9522,35.2332,10306,3282,75
+Jan,Western Sahara,,24.2155,-12.8858,0,0,0
+Feb,Western Sahara,,24.2155,-12.8858,0,0,0
+Mar,Western Sahara,,24.2155,-12.8858,0,0,0
+Apr,Western Sahara,,24.2155,-12.8858,6,5,0
+May,Western Sahara,,24.2155,-12.8858,9,6,1
+Jun,Western Sahara,,24.2155,-12.8858,10,8,1
+Jul,,Western Sahara,,24.2155,-12.8858,10,8,1
+Jan,Yemen,,15.552727,48.516388,0,0,0
+Feb,Yemen,,15.552727,48.516388,0,0,0
+Mar,Yemen,,15.552727,48.516388,0,0,0
+Apr,Yemen,,15.552727,48.516388,6,1,2
+May,Yemen,,15.552727,48.516388,323,14,80
+Jun,Yemen,,15.552727,48.516388,1158,488,312
+Jul,,Yemen,,15.552727,48.516388,1674,780,474
+Jan,Zambia,,-13.133897,27.849332,0,0,0
+Feb,Zambia,,-13.133897,27.849332,0,0,0
+Mar,Zambia,,-13.133897,27.849332,35,0,0
+Apr,Zambia,,-13.133897,27.849332,106,55,3
+May,Zambia,,-13.133897,27.849332,1057,779,7
+Jun,Zambia,,-13.133897,27.849332,1594,1329,24
+Jul,,Zambia,,-13.133897,27.849332,4328,1953,139
+Jan,Zimbabwe,,-19.015438,29.154857,0,0,0
+Feb,Zimbabwe,,-19.015438,29.154857,0,0,0
+Mar,Zimbabwe,,-19.015438,29.154857,8,0,1
+Apr,Zimbabwe,,-19.015438,29.154857,40,5,4
+May,Zimbabwe,,-19.015438,29.154857,178,29,4
+Jun,Zimbabwe,,-19.015438,29.154857,591,162,7
+Jul,,Zimbabwe,,-19.015438,29.154857,2434,518,34
